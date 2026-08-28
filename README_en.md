@@ -1,6 +1,6 @@
 # The China AI Registry
 
-**988 on the List — Reading Chinese AI from the State's Own Ledger.**
+"The five Chinese AI models you can name are under 1% of the ones China counts." 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
