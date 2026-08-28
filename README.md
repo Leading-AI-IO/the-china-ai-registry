@@ -40,7 +40,9 @@
 > call centre, a municipal hotline, and a Lao-language foundation model —
 > alongside Tesla Shanghai, IKEA, Siemens, BMW and Coca-Cola. Eleven central
 > state-owned enterprises appear under a jurisdiction code rather than a
-> province. The industry is not counted by companies. It is counted by a registry.
+> province. The five Chinese AI models you can name are under 1% of the ones
+> China counts. The industry is not counted by companies — it is counted by a
+> registry, and the registry is public.
 >
 > **利害関係の開示 / Disclosure**：著者は中国の政府機関、AI企業、半導体企業の
 > いずれとも取引関係を持たず、いずれからも資金提供を受けていない。本書は
@@ -58,9 +60,11 @@
 
 ## 📖 概要
 
-社内で生成AIの話をすると、だいたい同じところで止まる。「便利なのは分かった。で、実際どこまで業務に入るのか」。PoCは通った。効果も出た。それでも本番の基幹業務には入っていない。海外事例を探しても、出てくるのはコールセンターと社内文書検索である。製造の現場は。公共サービスは。医療は。基幹インフラは。
+DeepSeek。Qwen。Kimi。GLM。MiniMax。日本語圏で「中国のAIモデル」が語られるとき、現れる名前はおおむねこの5つに収まる。ベンチマークのスコアとAPI価格を横に並べた比較表が作られ、そこで議論が終わる。この5社は実在するし、表の数字も正しい。
 
-**その答えが、一つの国について988件分まとめて公開されている。**
+**問題は分母である。この5社は、中国のAI産業の何割を占めるのか。**
+
+表を作った側も、読んだ側も、この問いに答えられない。分母を知らないまま、分子だけを比べている。中国は不透明だから仕方ない——そう説明されることが多い。だが分母は推計する必要がない。**中国当局が、個社名入りで公開している。**
 
 中国では生成AIサービスの提供に当局への備案（登録）が要る。2026年6月30日時点で備案済みサービス**988件**、登記済みアプリケーション**598件**。個社名入りの名簿が**2ヶ月ごと**に公告され、2024年4月から2026年6月まで12回分が積み上がっている。規制のために作られた記録だが、結果として**生成AIの社会実装を全数で追跡できる公的記録**になっている。
 
@@ -107,7 +111,7 @@
 
 ## 📑 目次
 
-- **序章:** 生成AIは、どこまで現場に入っているのか
+- **序章:** この5社は、中国のAI産業の何割か
 - **第1章:** 名簿の読み方 ── 当局が数えているもの
 - **第2章:** 起点 ── 2023年8月31日の8件
 - **第3章:** 認知の順と、登録の順は違う
