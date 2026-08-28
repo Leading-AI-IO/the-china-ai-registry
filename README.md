@@ -1,7 +1,7 @@
 # The China AI Registry
 
-**988の名簿 ── 中国AIモデルを、当局の台帳から読む** <br/>
-**The China AI Registry — Reading Chinese AI from the State's Own Ledger.**
+"The five Chinese AI models you can name are under 1% of the ones China counts." <br>
+（あなたが名前を言える5つの中国AIモデルは、中国が数えているものの1%に満たない）
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
