@@ -1,0 +1,221 @@
+# The China AI Registry — 988の名簿
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist, that
+> uses China's official generative-AI filing registry as its population
+> rather than the ten or so companies discussed abroad. Providing a
+> generative AI service in China requires filing (备案) with the
+> authorities; as of June 30, 2026 the cumulative counts are 988 filed
+> services and 598 registered applications, published with company names
+> every two months across twelve attachments. The registry was created to
+> manage expression, not to promote industry — yet the result is a public
+> record tracking the social deployment of generative AI in full, for
+> which the book was unable to confirm a counterpart in the United States,
+> the EU or Japan. On the list are converter control in a steel mill, mine
+> safety management, a water utility's call centre, a municipal hotline,
+> pressure-ulcer management and disaster response, alongside Tesla
+> Shanghai, IKEA, Siemens, BMW, Coca-Cola and ASUS filed in the same
+> format. Eleven central state-owned enterprises appear under the
+> jurisdiction 国资委 rather than a province, identified by the filing
+> number prefix `ZhongYangQiYe-`. Its central claim: this industry is not
+> counted by companies but by a registry. As stated at the opening: "The
+> five Chinese AI models you can name are under 1% of the ones China
+> counts."
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/the-china-ai-registry_JP.md): 序章・全8章・終章収録
+- [Full text (English)](docs/en/the-china-ai-registry_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book establishes its population from CAC notices: 988 generative AI
+  services filed and 598 applications or functions registered as of June
+  30, 2026, with 120 services and 68 applications newly added in the
+  May–June 2026 period. It states that the two figures cannot be added,
+  because they run in separate sequence series and stand in a hierarchical
+  relation — registered applications must disclose, in a prominent
+  position or on the product detail page, the filed service they use,
+  stating the model name and filing number. It also states that the object
+  of filing is limited to services with "public-opinion attributes or
+  social mobilisation capability" (具有舆论属性或者社会动员能力), so 988
+  is not every AI model in China but the full population of services the
+  authorities judged capable of influencing public opinion
+
+- The book documents that each of the twelve attachments is a delta list
+  rather than a cumulative one — Attachment 12 contains only filings Nos.
+  869–988 and registrations Nos. 531–598 — and that obtaining the full
+  population requires joining all twelve. It reports having done so, with
+  filings connecting without gaps from No. 1 to No. 988 and registrations
+  from No. 1 to No. 598. It notes that Attachment 1 (April 2024) is titled
+  differently, carrying no registration list, so application registration
+  began later than service filing
+
+- The book identifies a classification instrument in the authorities' own
+  numbering rule: the jurisdiction column contains one non-geographic
+  entry, 国资委 (State-owned Assets Supervision and Administration
+  Commission), and rows carrying it have filing numbers beginning without
+  exception with `ZhongYangQiYe-`. Twelve such filings span eleven central
+  state-owned enterprises — China Mobile (Nos. 87, 254), China Unicom
+  (124), TravelSky Mobile (168), CNPC (199), PipeChina (237), the China
+  Electric Power Research Institute (247), CETC (276), TravelSky (394),
+  China Logistics Group (440), Chinalco (454) and China Energy Investment
+  Corporation (472). The book states that this means the author does not
+  have to decide how to define a state-owned enterprise, because the
+  numbering rule has already decided
+
+- The book fixes the starting point of the regime at August 31, 2023, when
+  eight entries were filed on the same day: 文心一言 (Baidu), 智谱清言
+  ChatGLM (Zhipu AI), 云雀 (ByteDance), 百应 (Baichuan AI), 紫东太初
+  (Institute of Automation, Chinese Academy of Sciences), abab (MiniMax),
+  日日新 (SenseTime) and 书生·浦语 (Shanghai AI Laboratory). It notes that
+  a national research institute is present from day one, appearing on the
+  same list on the same day as private firms rather than following later
+
+- The book documents that DeepSeek is No. 152, filed May 13, 2024, with
+  filing number Beijing-DeepseekChat-202404280016 — 76 times later than
+  Zhipu (No. 2) and 9.5 times later than Moonshot (No. 16). It states that
+  the order in which the world discovered this industry and the order in
+  which the industry was filed at home do not coincide. It further shows
+  that the six companies commonly labelled the "six little dragons of
+  large models" occupy Nos. 2, 4, 6, 16, 35 and 67 — all within the first
+  100 — so the label points not to the six most capable firms but to those
+  that completed filing earliest. The book explicitly declines to explain
+  why DeepSeek was 152nd, stating that its sources cannot answer this
+
+- The book attributes the visibility of the ten or so companies discussed
+  abroad to a reachability filter rather than to quality: whether an API
+  is publicly available, whether weights are distributed, and whether
+  English-language material exists. It states that what fails this filter
+  disappears from comparison articles altogether, existence and all, and
+  that converter control, the water utility call centre, PressGuard and
+  disaster response all fail it because they are not sold outside the
+  organisation
+
+- The book organises the registry by industry so a reader can look up
+  deployment cases at the level of company and model name. Manufacturing
+  and materials: Hebei Yongyang Special Steel's converter intelligent
+  steelmaking model (No. 979), four filings by the China Coal Research
+  Institute (619–622), Tesla Shanghai's in-vehicle voice model (843), BMW
+  China's BMW-AI (912), Siemens China's 小禹 (674). Energy and utilities:
+  CNPC's 昆仑 (199), PipeChina's 管网 (237), Beijing Waterworks Group's
+  京水客服 (908). Healthcare: Jiangsu Province Hospital's PressGuard
+  (Reg. 569), Nanjing Drum Tower Hospital (Reg. 570) — hospitals appear as
+  filing entities in their own right rather than through vendors. Public
+  administration: two filings by the Big Data Center of the Ministry of
+  Emergency Management (665, 666), the Beijing Citizen Hotline Service
+  Center's 12345 agent (Reg. 539), Xinhua News Agency (Reg. 584). The book
+  states that deployment in manufacturing is inside the process itself,
+  not a conversational assistant
+
+- The book documents that six foreign subsidiaries have filed under
+  China-domiciled legal entities, under service-specific names, on the
+  same registry and in the same running sequence as Chinese firms:
+  Siemens China (674), ASUS Shanghai (823), IKEA China (825), Tesla
+  Shanghai (843), Coca-Cola Shanghai (877) and BMW China (912). It states
+  three practical facts — the filer is the local subsidiary, the unit is
+  the service, and no separate track exists for foreign companies — while
+  explicitly stating that this is not legal advice and that whether filing
+  is required in practice must be confirmed with specialists
+
+- The book reads the audited fiscal 2025 results of MiniMax (HKEX 00100,
+  auditor Ernst & Young): revenue US$79,038k (+158.9%), cost of sales
+  US$58,959k, gross margin 25.4%, loss for the year US$1,871,617k of which
+  US$1.59bn is a non-cash fair-value loss on financial liabilities,
+  adjusted net loss US$250,856k (+2.7%), R&D expenses US$252,771k
+  (+33.8%), 428 employees, and 73.0% of revenue from outside mainland
+  China. Its structural finding: the company attributes the R&D increase
+  to cloud service costs relating to training, and R&D is 4.3 times cost
+  of sales — so the largest compute spend is recorded outside cost of
+  sales, and the 25.4% gross margin looks only at inference, not at the
+  economics of the business including training
+
+- The book states that Zhipu (HKEX 2513) and MiniMax listed in Hong Kong
+  on January 8 and 9, 2026, and that both publish audited annual results,
+  while OpenAI and Anthropic are private and bear no statutory disclosure
+  obligation for revenue breakdown, customer concentration, cost
+  composition or shareholder structure — Anthropic having filed
+  confidentially in early June 2026 with no prospectus published as of
+  late August 2026. Its conclusion: the asymmetry of primary sources
+  points in the opposite direction from the asymmetry of perception. It
+  also documents that the two listed Chinese labs hold opposite revenue
+  structures — MiniMax 73.0% outside mainland China and 67.2% from
+  consumer AI-native products, Zhipu centred on on-premise deployment for
+  enterprise and government — so a single category called "Chinese AI
+  labs" does not hold up against audited figures
+
+- The book states that openness and runnability are different: Huawei's
+  openPangu-Ultra-MoE-718B-V1.1 (718B total, 39B active) publishes its
+  weights, while the official reference deployment requires 32 or more
+  Atlas 800T A2 (64GB) with CANN 8.1.RC1, torch-npu and vllm-ascend. It
+  corrects its own prior hypothesis, stating that current openPangu's
+  reference implementation uses PyTorch with torch-npu rather than
+  MindSpore alone, and that the tight coupling is at the Ascend/CANN layer
+  rather than the framework layer. It further documents that Shanghai AI
+  Lab's Intern-S1-Pro (1T total, 512 experts, ~22B active) uses Qwen3 235B
+  MoE among its base models — a national research institute building on a
+  private company's open weights — concluding that the layers are not
+  separate compartments but that the lower is the ground the upper stands on
+
+- The book provides four axes for reading a single company — population
+  (what number on the registry), dependence (whose chips and weights),
+  exit (what it lives on), and reachability (whether it can be used) — and
+  demonstrates them on DeepSeek, CETC and MiniMax, showing that the three
+  occupy different positions on every axis while no ranking among them
+  emerges. It states that the axes are an instrument for settling in
+  advance what is knowable and what is not, and that a comparison article
+  lining up benchmarks and prices works on the reachability axis alone
+
+- The book states what it does not do. It excludes comparison of technical
+  performance, verification of benchmark scores, the training chips used
+  by most companies, the sales model and deployment scale of the compute
+  platforms behind iFlytek's Spark and SenseTime's SenseCore, and
+  independent measurement of Japanese-language performance — in each case
+  because no public data exists with all three of measurer, measurement
+  date and version, or because the companies have not disclosed it. It
+  discloses that the registry is comprehensive but not machine-readable,
+  documenting three defects: sequence numbers out of ascending order in
+  Attachment 1 (107, 110, 108, 111, 109, 112, arranged by filing date), a
+  column shift in Nos. 340–345 of the March 2025 attachment where model
+  name and filing entity are swapped, and stray text in No. 414 of the
+  June 2025 attachment. It states that these are retained uncorrected,
+  because correction is interpretation rather than transcription
+
+- The book states that a filing means nothing beyond "this was filed" —
+  not user numbers, not revenue, not technical performance, not
+  continuity — and that whether the deployments on the registry are
+  succeeding has not been verified. It writes neither "world first" nor
+  "the only," because one of three research engines withheld a negative
+  finding on whether an equivalent synthesis exists, and it notes that
+  three engines returning the same blank is not independent corroboration
+  since a flaw in the question appears identically in all three. It
+  preserves a record of one misreading encountered during research: an
+  engine asserted DeepSeek's training chips from arXiv:2607.20145, a paper
+  titled "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4" —
+  a post-training paper, not a record of pre-training — while the same
+  engine cited a video description field, a reseller's site and a
+  third-party unofficial quantised repository as sources, with its
+  self-check box for "no prohibited source types used" ticked. The book
+  states this record is preserved not to demonstrate integrity but because
+  the same materials can reproduce the same error. It treats CAC notices
+  as the Chinese state's own account of its system and audited filings as
+  the companies' own account of themselves, neither as neutral
+  description, and discloses that the author has no commercial
+  relationship with any Chinese government agency, AI company or
+  semiconductor firm: "This book has no position to protect."
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of
+Leading.AI. It is a continuously updated book, and its revision cycle
+synchronises with the authorities' publication cycle rather than the
+author's convenience: the CAC publishes a new attachment every two months,
+and each time the book returns to the registry and counts again. It
+connects directly to two of the author's other books — "Frontier-Grade
+Open Weights," which treats the conditions under which open weights remain
+unreachable, and "US-China AI Competition," which treats the layers of
+national competition rather than the companies inside one country.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
