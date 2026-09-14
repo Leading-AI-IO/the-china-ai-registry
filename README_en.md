@@ -7,7 +7,7 @@
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--28-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
 
 <p align="left">
-  <img src="./assets/ogp_design.png" width="80%">
+  <img src="./assets/ogp_design.png" width="90%">
 </p>
 
 *Read this in other languages: [日本語](README.md)*
