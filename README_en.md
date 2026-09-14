@@ -144,6 +144,8 @@ This book is cross-connected with the following open-source projects.
 | **Will AI Break the Planet**        | Tens of trillions in infrastructure investment, and the irreversible line of global warming | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)       |
 | **The Forward Deployed Shift**      | Outcome implementation — where value sits once AI has ended "building" | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)     |
 | **Earned AI Model Optionality**     | AI models can be chosen. Only companies that built for it get to choose | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)    |
+| **Us-china-ai-competition** | The Layers of US-China AI Competition — What is being decided is not who is stronger, but who writes the terms | [GitHub](https://github.com/Leading-AI-IO/us-china-ai-competition)  |
+| **The AI Forecast Registry** | The AI Forecast Registry — Recording What Was Predicted, Before It Resolves | [GitHub](https://github.com/Leading-AI-IO/the-ai-forecast-registry)  |
 
 ---
 
