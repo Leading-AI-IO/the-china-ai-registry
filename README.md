@@ -152,6 +152,7 @@ DeepSeek。Qwen。Kimi。GLM。MiniMax。日本語圏で「中国のAIモデル�
 | **Will AI Break the Planet**        | 数十兆円のインフラ投資と、地球温暖化の「不可逆ライン」 | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)       |
 | **The Forward Deployed Shift**      | 成果実装 ── FDEが示す、AIで「作る」が終わった世界の価値のありか | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)     |
 | **Earned AI Model Optionality**     | AIモデルは選べる。選べるのは、選べるようにした企業だけだ | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)    |
+| **Us-china-ai-competition** | 米中AI競争の多層構造 ── 決めているのは、強さではなく条件である。 | [GitHub](https://github.com/Leading-AI-IO/us-china-ai-competition)  |
 | **The AI Forecast Registry** | AI未来予測の名簿 —— AIの未来をめぐる予測を、決着の前に刻む。 | [GitHub](https://github.com/Leading-AI-IO/the-ai-forecast-registry)  |
 
 ---
