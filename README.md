@@ -154,6 +154,7 @@ DeepSeek。Qwen。Kimi。GLM。MiniMax。日本語圏で「中国のAIモデル�
 | **Earned AI Model Optionality**     | AIモデルは選べる。選べるのは、選べるようにした企業だけだ | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)    |
 | **Us-china-ai-competition** | 米中AI競争の多層構造 ── 決めているのは、強さではなく条件である。 | [GitHub](https://github.com/Leading-AI-IO/us-china-ai-competition)  |
 | **The AI Forecast Registry** | AI未来予測の名簿 —— AIの未来をめぐる予測を、決着の前に刻む。 | [GitHub](https://github.com/Leading-AI-IO/the-ai-forecast-registry)  |
+| **the Japan Breach Registry 2026** | 2026年秋、日本の企業・組織を襲った個人情報漏えいの波 ── 事実台帳から分かる客観的分析結果。 | [GitHub](https://github.com/Leading-AI-IO/the-japan-breach-registry-2026)  |
 
 ---
 
