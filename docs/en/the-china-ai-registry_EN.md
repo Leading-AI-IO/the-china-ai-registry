@@ -36,6 +36,13 @@ The cumulative number of generative AI services that had completed *bei'an* (fil
 
 The five companies above are among those 988. **The remaining 983 are also there.**
 
+(Added on October 18, 2026)<br/>
+On September 14, 2026, the CAC published the notice for July and August 2026.<br/>
+In those two months, 124 services newly completed filing. Seven of them provide generative AI services that run on the smartphone itself.<br/>
+133 applications and functions newly completed registration.<br/>
+As of August 31, 2026, the cumulative totals stand at **1,112 filings and 731 registrations**.<br/>
+Outside the five companies above, there are now 1,107. The larger the denominator grows, the smaller the share the five occupy.
+
 ---
 
 ## Why This Registry Exists
@@ -57,6 +64,9 @@ Which company, in which province, on which date, filed a model under which name.
 
 The interval of updates is two months.<br/>
 April, August and November 2024. January, March, June, August, October and December 2025. February, April, and May–June 2026.
+
+(Added on October 18, 2026)<br/>
+With the notice of September 14, 2026, Attachment 13 (titled "Filed and Registered Information for Generative AI Services (August 2026)") was added to the hub page. There are now thirteen sets of attachments.
 
 This registry was created for the purpose of managing expression. It is not a statistical instrument for industrial promotion.<br/>
 **Yet the result is a public record that tracks the social deployment of generative AI in full.**
@@ -263,6 +273,10 @@ The author has no commercial relationship with any Chinese government agency, AI
 3. *Interim Measures for the Management of Generative AI Services*（生成式人工智能服务管理暂行办法）— the legal basis of the filing regime, cited in the body of the notices above
 4. Cyberspace Administration of China, Attachment 12, "Filed and Registered Information for Generative AI Services (May–June 2026)" — source for the cases listed in this Prologue (No. 908 Jingshui Customer Service, No. 877 Happy Buddy, No. 912 BMW-AI, No. 979 converter intelligent steelmaking model, No. 980 Lao-language foundation model, Registration No. 539 the 12345 agent, Registration No. 569 PressGuard, Registration No. 584 Xinhua Yudian)
 
+(Added on October 18, 2026)<br/>
+5. Cyberspace Administration of China, "Notice on the Publication of Filed Information for Generative AI Services (July–August 2026)" (September 14, 2026) — source for the 124 filings (seven of them on-device) and 133 registrations newly completed in the period, and for the cumulative 1,112 and 731 as of August 31, 2026<br/>
+   <https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm>
+
 <br/>
 
 ---
@@ -391,6 +405,13 @@ One further note: Attachment 1 (April 2024) carries a different title.<br/>
 The other eleven are titled "Filed **and Registered** Information for Generative AI Services," whereas Attachment 1 is titled only "Filed Information for Generative AI Services."<br/>
 **The registration list does not exist in Attachment 1; it begins at No. 1 in Attachment 2 (August 2024).** The application-registration regime began later than service filing.
 
+(Added on October 18, 2026)<br/>
+With the notice of September 14, 2026, Attachment 13 was added to the hub page.<br/>
+According to the notice, 124 services newly completed filing and 133 applications or functions newly completed registration between July and August 2026.<br/>
+The cumulative totals now stand at 1,112 filings and 731 registrations (988 + 124 = 1,112 and 598 + 133 = 731, consistent with the previous cumulative figures).<br/>
+At the time of this addendum, however, **this book has not yet joined the entries in Attachment 13.**<br/>
+Confirming that the sequence numbers connect without gaps once Attachment 13 is joined, and recounting the industry and jurisdiction distributions in Chapter 4, are left to the next version.
+
 ## Comprehensive, but Not Machine-Readable
 
 Having set out the registry's usefulness, its limits are recorded here as well.
@@ -435,6 +456,10 @@ And the CAC table **has no column for reconciling legal entities.**
    <https://www.cac.gov.cn/2026-07/10/c_1785427810632554.htm>
 3. Cyberspace Administration of China, "Filed and Registered Information for Generative AI Services (March–April 2026)" notice (May 13, 2026)<br/>
    <https://www.cac.gov.cn/2026-05/13/c_1780413225190669.htm>
+
+(Added on October 18, 2026)<br/>
+4. Cyberspace Administration of China, "Notice on the Publication of Filed Information for Generative AI Services (July–August 2026)" (September 14, 2026)<br/>
+   <https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm>
 
 <br/>
 
@@ -1292,6 +1317,10 @@ This book is a living document. It is revised by the following procedure.
 
 Note that the opening line ("under 1%") requires no update as the denominator grows. Filings are cumulative and do not decrease, so the statement can only move in the direction of becoming stronger as the denominator rises. **Precise absolute figures are carried by the body; the update-free summary is carried by the opening.**
 
+(Added on October 18, 2026)<br/>
+Following the notice of September 14, 2026 (covering July and August 2026), this book has updated the cumulative absolute figures in the Prologue and Chapter 1.<br/>
+The appendix lists and the jurisdiction distribution in Chapter 4 will be recounted after the entries in Attachment 13 have been joined.
+
 ### References
 
 This chapter reorganises primary sources already presented in Chapters 1 through 6 and introduces no new ones. The basis for each axis corresponds as follows.
@@ -1478,6 +1507,10 @@ The following primary sources had not been reached at the time of writing.
 5. The CAC notice of July 2025 (cumulative figures as of June 30, 2025)
 6. Primary sources on Moonshot AI's valuation
 
+(Added on October 18, 2026)<br/>
+On item 6: on September 3, 2026, Reuters reported that Moonshot AI（月之暗面）had filed confidentially for a listing on the Hong Kong Stock Exchange. According to the report, the fundraising target is about US$3bn and the valuation about US$50bn.<br/>
+This book confirmed the report through a secondary source summarising the Reuters article. It has not reached the exchange's disclosure documents or an announcement from the company. Item 6 therefore remains unreached.
+
 ## Why "World First" Is Not Written Here
 
 In preparing this book, three research engines were asked whether a work exists that structures Layers 1 through 5 within a single framework.
@@ -1520,6 +1553,9 @@ Finally, the central proposition once more.
 
 988 services. 598 applications. A notice every two months. Twelve delta lists. Sequence numbers running unbroken from 1 to 988. The prefix `ZhongYangQiYe-`. The entry 国资委 sitting in the jurisdiction column.
 
+(Added on October 18, 2026)<br/>
+As of August 31, 2026: 1,112 services. 731 applications. Thirteen delta lists.
+
 All of these are administrative forms.<br/>
 And China's AI industry is counted, recorded and published within those forms.
 
@@ -1538,6 +1574,10 @@ The ledger is public.
 2. 01.AI official API documentation — source for the notice of API suspension from August 25, 2026, cited as an instance of information the registry does not reflect
 3. arXiv:2607.20145, "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4" — the paper treated in "A Record of a Misreading." The title establishes that it concerns post-training. **This book does not use the contents of this paper as a basis for any factual claim.**
 4. Center for Strategic and International Studies (CSIS), "What to Know About Chinese AI Models" (July 2, 2026) — judged in this book's gap analysis to be the closest existing work to an integrated structuring, though it is organised around four questions rather than a layer-by-layer dissection of companies
+
+(Added on October 18, 2026)<br/>
+5. Venture Atlas, "Moonshot AI files confidentially for $3 billion Hong Kong IPO" (September 3, 2026) — a secondary source summarising Reuters reporting of September 3, 2026; source for the statements on Moonshot AI's listing application, fundraising target and valuation. **Based on news reporting**<br/>
+   <https://www.ventureatlas.org/news/2026-09-03-moonshot-ai-hong-kong-ipo-filing>
 
 **Sources that could not be reached** (as listed in the body)
 
