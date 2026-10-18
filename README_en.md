@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--28-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--18-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -38,6 +38,10 @@
 > industry is not counted by companies — it is counted by a registry, and the
 > registry is public.
 >
+> (Added on October 18, 2026)<br>
+> Following the CAC notice of 14 September 2026, the cumulative totals as of
+> 31 August 2026 stand at 1,112 services and 731 applications.
+>
 > **Disclosure**: The author has no commercial relationship with any Chinese
 > government agency, AI company, or semiconductor firm, and receives no funding
 > from any of them. This is independent analysis. Government notices are treated
@@ -57,6 +61,9 @@ DeepSeek. Qwen. Kimi. GLM. MiniMax. When Chinese AI models are discussed outside
 Neither the person who built the table nor the person who read it can answer. The denominator is unknown; only the numerators are being compared. China is opaque, so nothing can be done — that is the usual explanation. But the denominator does not have to be estimated. **Chinese authorities publish it, with company names attached.**
 
 Providing a generative AI service in China requires filing with the authorities. As of 30 June 2026, **988 services** and **598 applications** had completed filing and registration. The named lists are published **every two months**, and twelve sets of attachments covering April 2024 through June 2026 have accumulated. The registry was created for regulatory purposes, yet the result is **a public record that tracks the social deployment of generative AI in full**.
+
+(Added on October 18, 2026)<br>
+On 14 September 2026, the CAC published the notice for July and August 2026. With 124 new filings (seven of them services that run on the smartphone itself) and 133 new registrations, the cumulative totals as of 31 August 2026 stand at **1,112 services and 731 applications**. There are now thirteen sets of attachments.
 
 What is on it? **Converter control in a steel mill** (Hebei Yongyang Special Steel). **Mine safety management**. **A water utility's call centre** (Beijing Waterworks Group). **A municipal hotline** (the Beijing Citizen Hotline Service Center's "12345 agent"). **Pressure-ulcer management** (Jiangsu Province Hospital's "PressGuard"). **Disaster response** (two filings by the Big Data Center of the Ministry of Emergency Management). Backbone enterprises in oil, gas pipelines, electric power, aviation, logistics and aluminium have filed their own large models. **Not a conversational assistant, and not internal document search — processes and public services themselves.**
 
@@ -98,6 +105,7 @@ Note that the opening line ("under 1%") requires no update as the denominator gr
 | Version | Date | Contents |
 | --- | --- | --- |
 | **v1.0** | 2026-08-28 | Initial release (filings Nos. 1–988 / registrations Nos. 1–598; Attachments 1–12 fully joined) |
+| **v1.1** | 2026-10-18 | Added the cumulative figures from the CAC notice of 14 September 2026 (July–August 2026): 1,112 filings / 731 registrations. Joining the entries in Attachment 13 and recounting the industry and jurisdiction distributions in Chapter 4 are left to the next version. Added news reporting on Moonshot AI's Hong Kong listing application to the Epilogue (based on news reporting) |
 
 ---
 

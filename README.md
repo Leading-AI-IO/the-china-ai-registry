@@ -5,7 +5,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08--28-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--18-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -32,6 +32,9 @@
 > 分かれて計上される構造**を読む。中心命題：**この産業は、企業では数えられて
 > いない。名簿で数えられている。**
 >
+> （2026年10月18日追記）<br>
+> 2026年9月14日の公告で、2026年8月31日時点の累計は備案1,112件、登記731件になった。
+>
 > **This book** is a structural analysis by Satoshi Yamauchi that uses China's
 > official generative-AI filing registry as its population. As of 30 June 2026,
 > 988 services and 598 applications are registered, and the named lists are
@@ -43,6 +46,10 @@
 > province. The five Chinese AI models you can name are under 1% of the ones
 > China counts. The industry is not counted by companies — it is counted by a
 > registry, and the registry is public.
+>
+> (Added on October 18, 2026)<br>
+> Following the CAC notice of 14 September 2026, the cumulative totals as of
+> 31 August 2026 stand at 1,112 services and 731 applications.
 >
 > **利害関係の開示 / Disclosure**：著者は中国の政府機関、AI企業、半導体企業の
 > いずれとも取引関係を持たず、いずれからも資金提供を受けていない。本書は
@@ -67,6 +74,9 @@ DeepSeek。Qwen。Kimi。GLM。MiniMax。日本語圏で「中国のAIモデル�
 表を作った側も、読んだ側も、この問いに答えられない。分母を知らないまま、分子だけを比べている。中国は不透明だから仕方ない——そう説明されることが多い。だが分母は推計する必要がない。**中国当局が、個社名入りで公開している。**
 
 中国では生成AIサービスの提供に当局への備案（登録）が要る。2026年6月30日時点で備案済みサービス**988件**、登記済みアプリケーション**598件**。個社名入りの名簿が**2ヶ月ごと**に公告され、2024年4月から2026年6月まで12回分が積み上がっている。規制のために作られた記録だが、結果として**生成AIの社会実装を全数で追跡できる公的記録**になっている。
+
+（2026年10月18日追記）<br>
+2026年9月14日、CACは2026年7月から8月の分を公告した。新たに備案124件（うちスマートフォンの端末側で動くサービス7件）、登記133件が加わり、2026年8月31日時点の累計は**備案1,112件、登記731件**になった。附件は13回分になった。
 
 そこに何があるか。**製鉄所の転炉制御**（河北永洋特鋼「転炉智能煉鋼大模型」）。**鉱山の安全生産管理**。**水道局のコールセンター**（北京市自来水集団「京水客服」）。**市民ホットライン**（北京市市民熱線服務中心「12345智能体」）。**褥瘡の管理支援**（江蘇省人民医院「舒圧伴・PressGuard」）。**災害対応**（応急管理部大数据中心「久安-知言」「久安-知図」）。石油・天然ガス管網・電力・航空・物流・アルミの基幹企業が、自前の大規模モデルを登録している。**対話アシスタントでも社内文書検索でもない。プロセスと公共サービスそのものである。**
 
@@ -106,6 +116,7 @@ DeepSeek。Qwen。Kimi。GLM。MiniMax。日本語圏で「中国のAIモデル�
 | 版 | 日付 | 内容 |
 | --- | --- | --- |
 | **v1.0** | 2026-08-28 | 初版公開（備案 序号1〜988／登記 序号1〜598・附件1〜12 全数連結） |
+| **v1.1** | 2026-10-18 | CACの2026年9月14日公告（2026年7〜8月分）の累計値を追記（備案1,112件／登記731件）。附件13の個票の連結と、第4章の業種別・属地別の数え直しは次版で行う。終章に、Moonshot AIの香港上場申請の報道を追記（報道ベース） |
 
 ---
 
