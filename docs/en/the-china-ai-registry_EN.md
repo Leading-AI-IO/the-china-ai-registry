@@ -167,6 +167,10 @@ How Tesla, IKEA, Siemens, BMW, Coca-Cola and ASUS have filed. Chapter 8 covers t
 **Third, a teaching case for reading the economics of an AI business in real figures.**<br/>
 Chapter 6 reads the audited annual results of listed AI labs. Revenue growth, gross margin, and **where the cost of compute is recorded in the accounts.** The same cannot be confirmed for OpenAI or Anthropic. Both are private.
 
+(Added on November 6, 2026)<br/>
+On October 26, 2026, Anthropic filed a public registration statement (Form S-1) with the US Securities and Exchange Commission. OpenAI, as far as this book has confirmed, has filed only confidentially.<br/>
+Anthropic's S-1, however, presents expenses by nature ("Compute and infrastructure," "Personnel" and so on), and this book could not read a split between cost of sales and R&D from it. The details are in the addendum to Chapter 6.
+
 And one method underpins all of this.
 
 **This industry is not counted by companies. It is counted by a registry.**
@@ -412,6 +416,13 @@ The cumulative totals now stand at 1,112 filings and 731 registrations (988 + 12
 At the time of this addendum, however, **this book has not yet joined the entries in Attachment 13.**<br/>
 Confirming that the sequence numbers connect without gaps once Attachment 13 is joined, and recounting the industry and jurisdiction distributions in Chapter 4, are left to the next version.
 
+(Added on November 6, 2026)<br/>
+On September 23, 2026, the CAC published, separately from its bimonthly notices, the filing of three generative AI services that run on-device on smartphones.<br/>
+They are "YOYO Claw" (深圳荣耀软件技术有限公司, for Honor phones), "Xiaomi miclaw" (小米科技有限责任公司, for Xiaomi phones) and "阶跃终端 AI" (StepFun Terminal AI; 智源星辰（上海）智能科技有限公司, for StepFun phones).<br/>
+The notice presents the breakdown of the three as an image, which this book could not confirm as text. The service names and providers come from IT Home's report, which quotes the official account of 网信中国.<br/>
+The notice of September 14 states that 7 of its 124 filings were on-device services. Whether the three filed on September 23 will be counted in the next bimonthly notice will be checked against that notice.<br/>
+As of November 6, 2026, the notice covering September–October 2026 has not been published, and this book has not yet joined the entries in Attachment 13.
+
 ## Comprehensive, but Not Machine-Readable
 
 Having set out the registry's usefulness, its limits are recorded here as well.
@@ -460,6 +471,12 @@ And the CAC table **has no column for reconciling legal entities.**
 (Added on October 18, 2026)<br/>
 4. Cyberspace Administration of China, "Notice on the Publication of Filed Information for Generative AI Services (July–August 2026)" (September 14, 2026)<br/>
    <https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm>
+
+(Added on November 6, 2026)<br/>
+5. Cyberspace Administration of China, "Notice on the Publication of Filed Information for Three Generative AI Services Provided On-Device on Mobile Phones" (September 23, 2026)<br/>
+   <https://www.cac.gov.cn/2026-09/23/c_1791913977404975.htm>
+6. IT Home（IT之家）, "Honor YOYO Claw, Xiaomi miclaw and StepFun Terminal AI: three on-device generative AI services for mobile phones pass CAC filing" (September 23, 2026) — source for the service names, providers and filing date of the three services. **Based on news reporting**<br/>
+   <https://www.ithome.com/1/006/344.htm>
 
 <br/>
 
@@ -977,6 +994,11 @@ At the same event, the SoC, display specifications, battery capacity, retail pri
 This book states that STEPX Neo was **announced and exhibited.**<br/>
 It does not state that it **shipped.** No primary source establishing mass-production shipment or sales has been reached.
 
+(Added on November 6, 2026)<br/>
+The CAC notice of September 23, 2026 (see the addendum to Chapter 1) includes "阶跃终端 AI" (StepFun Terminal AI). The device is listed as "阶跃手机" (StepFun phone), the provider is 智源星辰（上海）智能科技有限公司, and the filing date is September 22, 2026 (IT Home report).<br/>
+The provider's name differs from that of the entity filed at No. 35 (上海阶跃星辰智能科技). This book has not confirmed the relationship between the two. Nor can the notice tell us whether the "StepFun phone" is the same device as STEPX Neo.<br/>
+A filing shows that the provision of a service has been notified to the authorities. It does not show shipments or sales. This book therefore continues not to state that STEPX Neo **shipped.**
+
 ## Training Chips Are Unknown for Most Companies
 
 This book attempted to identify the chips each company used for training.<br/>
@@ -1004,6 +1026,12 @@ This book does not adopt that statement.
 2. Huawei Ascend developer site, technical article on "openPangu-Ultra-MoE-718B-V1.1" (October 15, 2025) — this book was unable to verify the reachability of the URL from its writing environment, so no link is given; refer to the corresponding article on the Ascend developer site
 3. MindSpore official site, "Pangu" page — same as above
 4. Beijing Academy of Artificial Intelligence (BAAI), "RoboBrain 2.5" publication page — same as above
+
+(Added on November 6, 2026)<br/>
+5. Cyberspace Administration of China, "Notice on the Publication of Filed Information for Three Generative AI Services Provided On-Device on Mobile Phones" (September 23, 2026)<br/>
+   <https://www.cac.gov.cn/2026-09/23/c_1791913977404975.htm>
+6. IT Home（IT之家）, "Honor YOYO Claw, Xiaomi miclaw and StepFun Terminal AI: three on-device generative AI services for mobile phones pass CAC filing" (September 23, 2026) — source for the provider, device and filing date of "阶跃终端 AI". **Based on news reporting**<br/>
+   <https://www.ithome.com/1/006/344.htm>
 
 <br/>
 
@@ -1069,6 +1097,24 @@ And by geography.
 
 Per the company's own description, it has served over 236 million users across more than 200 countries and regions, and 214,000 enterprise customers and developers across more than 100 countries and regions.
 
+(Added on November 6, 2026)<br/>
+On August 26, 2026, MiniMax announced its interim results for the six months ended June 30, 2026. The figures below are taken from that announcement.
+
+| Item | H1 2026 | H1 2025 | Change |
+| --- | --- | --- | --- |
+| Revenue | US$116,573k | US$30,429k | +283.1% |
+| Cost of sales | US$95,760k | US$26,744k | +258.1% |
+| Gross profit | US$20,813k | US$3,685k | +464.8% |
+| Gross margin | **17.9%** | 12.1% | +5.8pt |
+| R&D expenses | US$296,870k | US$124,333k | +138.8% |
+| Loss for the period | US$357,997k | US$402,188k | −11.0% |
+| Adjusted net loss (non-IFRS) | US$293,031k | US$138,735k | +111.2% |
+| Revenue outside mainland China | US$70,828k (**60.8%**) | — | — |
+
+Half-year figures cannot be compared directly with the full-year figures (gross margin 25.4%, 73.0% outside mainland China). Against the same half of the previous year, gross margin rose from 12.1% to 17.9%.<br/>
+The share from outside mainland China is 60.8%; even on a half-year basis, the majority of revenue comes from outside mainland China.<br/>
+As of June 30, 2026, the company had 568 employees and total cash of US$1,322.8 million.
+
 ## The Cost of Compute Is Not in Cost of Sales
 
 The most structurally significant finding in these results is what the 25.4% gross margin actually means.
@@ -1118,6 +1164,12 @@ flowchart TB
 This is not improper accounting. Excluding research and development from cost of sales is standard treatment.<br/>
 But when the argument is "Chinese AI has low gross margins" or "margins are improving," which range the figure covers cannot be known without opening the financial statements.
 
+(Added on November 6, 2026)<br/>
+The interim announcement for H1 2026 shows the same split.<br/>
+The company again explains the increase in R&D as "an increase in cloud services expenses related to training activities." The increase in cost of sales is described as primarily in line with the increase in revenue.<br/>
+R&D expenses of US$296,870k are **3.1 times** cost of sales of US$95,760k (4.3 times in fiscal 2025).<br/>
+The H1 2026 gross margin of 17.9% therefore also **looks only at inference.**
+
 ## Zhipu Has the Opposite Structure
 
 Multiple news outlets have reported figures for Zhipu (HKEX 2513) for fiscal 2025.<br/>
@@ -1135,6 +1187,26 @@ One conflict between reports cannot be resolved.<br/>
 **The same figure, RMB3.18bn, is attributed by different outlets both to "R&D expenses" (+44.9%) and to "adjusted net loss" (+29.1%).**<br/>
 Some outlets list both as separate items. Which is correct cannot be determined without opening the original statements. **This book will not use either figure on its own until primary verification is complete.**
 
+(Added on November 6, 2026)<br/>
+This book has now reached the original of Zhipu's annual results announcement for fiscal 2025 (March 31, 2026; auditor KPMG).<br/>
+**The two figures were not in conflict.** R&D expenses were RMB3,180,443k (+44.9%) and adjusted net loss was RMB3,181,972k (+29.1%): two separate items that both round to RMB3.18bn. The outlets that listed both as separate items were correct.<br/>
+The reported figures in the table above also match the original within rounding.
+
+| Item | FY2025 | FY2024 | Change |
+| --- | --- | --- | --- |
+| Revenue | RMB724,334k | RMB312,414k | +131.9% |
+| Cost of sales | RMB427,678k | RMB136,525k | +213.3% |
+| Gross margin | 41.0% | 56.3% | — |
+| R&D expenses | RMB3,180,443k | RMB2,195,436k | +44.9% |
+| Loss for the year | RMB4,718,167k | RMB2,958,007k | +59.5% |
+| Adjusted net loss (non-IFRS) | RMB3,181,972k | RMB2,465,569k | +29.1% |
+| Cloud deployment (revenue, gross margin) | RMB190,379k, 18.9% | RMB48,484k, 3.3% | — |
+| On-premise deployment (revenue, gross margin) | RMB533,955k, 48.8% | RMB263,930k, 66.0% | — |
+
+As drivers of the increase in R&D, the company cites higher staff costs from the expansion of its R&D team and "an increase in computing service fees paid to third-party computing power suppliers."<br/>
+**Zhipu, too, records part of its compute cost in R&D.** R&D expenses were 7.4 times cost of sales.<br/>
+On-premise deployment accounted for 73.7% of fiscal 2025 revenue. The statement below that Zhipu is centred on on-premise deployment is confirmed by the original for fiscal 2025.
+
 Even so, something can be said with confidence.
 
 MiniMax draws 73.0% of revenue from outside mainland China, and 67.2% from consumer-facing AI-native products.<br/>
@@ -1143,6 +1215,24 @@ Zhipu's on-premise deployment accounts for a 49% gross margin, and is reported t
 **Two companies filed on the same day, listed in the same month, hold opposite revenue structures.**
 
 A single category called "Chinese AI labs" does not hold up against audited figures.
+
+(Added on November 6, 2026)<br/>
+On August 31, 2026, Zhipu announced its interim results for the six months ended June 30, 2026.
+
+| Item | H1 2026 | H1 2025 | Change |
+| --- | --- | --- | --- |
+| Revenue | RMB953,892k | RMB190,877k | +399.7% |
+| Cloud deployment (revenue, share, gross margin) | RMB825,176k, **86.5%**, 24.6% | — | — |
+| On-premise deployment (revenue, share, gross margin) | RMB128,716k, **13.5%**, 37.9% | — | — |
+| Gross margin | 26.4% | 50.0% | — |
+| R&D expenses | RMB2,131,171k | RMB1,594,661k | +33.6% |
+| Loss for the period | RMB2,071,992k | RMB2,357,852k | −12.1% |
+| Adjusted net loss (non-IFRS) | RMB1,964,138k | RMB1,751,974k | +12.1% |
+
+**Within six months, the direction of the revenue structure reversed.** On-premise deployment, 73.7% of fiscal 2025 revenue, fell to 13.5% in H1 2026. Cloud deployment (open platform and API) now accounts for 86.5%.<br/>
+The company attributes the increase in cost of sales primarily to higher computing service fees, and the increase in R&D to continued investment in model training. R&D was 3.0 times cost of sales, close to MiniMax's 3.1 times.<br/>
+**This book's statement that the two companies hold "opposite revenue structures" was borne out by the original for fiscal 2025, and did not hold for H1 2026.** This book does not infer an annual structure from half-year figures, but the two companies have moved closer in how they deploy.<br/>
+On geography, 60.8% of MiniMax's revenue comes from outside mainland China. For Zhipu, this book could not find a geographic breakdown in the parts of the interim announcement it read.
 
 ## And the Same Cannot Be Confirmed for the Two American Labs
 
@@ -1204,6 +1294,26 @@ The side that feels transparent has not published them yet.
 This is not a statement about which is better. Listing is a choice, not an obligation, and being private is in no way improper.<br/>
 This book points to one thing only: **the answer to which side is observable can run counter to intuition.**
 
+(Added on November 6, 2026)<br/>
+On October 26, 2026, Anthropic filed a public registration statement (Form S-1) with the US Securities and Exchange Commission. It is a draft "Subject to Completion," with many offering terms left blank.<br/>
+Revenue was US$4,585 million in fiscal 2025 and US$16,286 million in H1 2026 (US$1,163 million in H1 2025).<br/>
+Expenses are presented by nature, not by function.
+
+| Operating expenses | FY2025 | H1 2026 |
+| --- | --- | --- |
+| Compute and infrastructure | US$7,326m | US$8,945m |
+| Personnel | US$1,839m | US$3,152m |
+| Bartz settlement | US$1,500m | — |
+| Sales, marketing, and partnerships | US$568m | US$3,168m |
+| Other operating and administrative | US$1,412m | US$1,714m |
+| Total | US$12,645m | US$16,979m |
+
+The operating loss for H1 2026 was US$693 million. The net loss was US$80,748 million, most of it (US$72,388 million) from changes in the fair value of convertible notes and similar instruments.<br/>
+The S-1 defines "compute" as the computational processing resources used to train and run AI models. In the parts this book read, however, it found no split of compute cost between training and inference, no cost of revenue or gross margin, and no breakdown of revenue between API and subscriptions.<br/>
+**The split this chapter read in MiniMax and Zhipu — training to R&D, inference to cost of sales — cannot be read from Anthropic's S-1.**<br/>
+OpenAI announced in June 2026 that it had filed an S-1 confidentially. As of November 6, 2026, this book has not reached a public version.<br/>
+**The asymmetry of disclosure has moved from "whether there is disclosure" to "whether the disclosure answers the same question."** The figure above is kept as the state of affairs at the end of August 2026.
+
 ### References
 
 1. MiniMax (HKEX 00100), "Annual Results Announcement for the Year Ended December 31, 2025" (March 2, 2026; auditor Ernst & Young)<br/>
@@ -1211,6 +1321,18 @@ This book points to one thing only: **the answer to which side is observable can
 2. HKEXnews, Hong Kong Exchanges and Clearing Limited<br/>
    <https://www.hkexnews.hk/>
 3. Reuters, "Anthropic could publish IPO prospectus after September 7 — report" (August 28, 2026) ※news reporting
+
+(Added on November 6, 2026)<br/>
+4. MiniMax (HKEX 00100), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 26, 2026)<br/>
+   <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0826/2026082600680.pdf>
+5. Zhipu (Knowledge Atlas Technology Joint Stock Company Limited, HKEX 2513), "Annual Results Announcement for the Year Ended 31 December 2025" (March 31, 2026; auditor KPMG)<br/>
+   <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033101549.pdf>
+6. Zhipu (Z.AI Co., Ltd., HKEX 2513), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 31, 2026) — the HKEX announcement file, accessed via Euroland<br/>
+   <https://ea-cdn.eurolandir.com/press-releases-attachments/4174939/HKEX-EPS_20260831_12308928_0.PDF>
+7. Anthropic, PBC, "Form S-1" (filed with the US Securities and Exchange Commission, October 26, 2026)<br/>
+   <https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm>
+8. InvestmentNews, "OpenAI files IPO registration, but don't expect market debut to be imminent" (June 8, 2026) — source for OpenAI's confidential S-1 filing. **Based on news reporting**<br/>
+   <https://www.investmentnews.com/equities/openai-files-ipo-registration-but-dont-expect-market-debut-to-be-imminent/266930>
 
 <br/>
 
@@ -1320,6 +1442,10 @@ Note that the opening line ("under 1%") requires no update as the denominator gr
 (Added on October 18, 2026)<br/>
 Following the notice of September 14, 2026 (covering July and August 2026), this book has updated the cumulative absolute figures in the Prologue and Chapter 1.<br/>
 The appendix lists and the jurisdiction distribution in Chapter 4 will be recounted after the entries in Attachment 13 have been joined.
+
+(Added on November 6, 2026)<br/>
+In this version, following the "Listed company results disclosed" row of the table, this book has added to Chapter 6 the H1 2026 interim announcements of MiniMax and Zhipu, the original of Zhipu's fiscal 2025 annual results announcement, and Anthropic's S-1.<br/>
+As of November 6, 2026, the CAC notice covering September–October 2026 has not been published. Joining Attachment 13 onward and recounting Chapter 4 will follow that notice.
 
 ### References
 
@@ -1436,6 +1562,12 @@ Zhipu is centred on on-premise deployment, with a 49% gross margin there, and is
 There is no single template called "the AI company business model."<br/>
 **Growing through overseas consumers and growing through domestic enterprise demand different organisations, different uses of capital, and different risks.** Which to choose is a question of business design, not technology.
 
+(Added on November 6, 2026)<br/>
+As the addendum to Chapter 6 shows, in Zhipu's H1 2026 interim announcement 86.5% of revenue came from cloud deployment (open platform and API), and on-premise deployment fell to 13.5%.<br/>
+The two paths are not fixed choices. Even after listing, a company can switch within six months.<br/>
+The lesson that compute cost is split between cost of sales and R&D, on the other hand, holds in both companies' interim announcements (R&D was 3.1 times cost of sales at MiniMax and 3.0 times at Zhipu).<br/>
+Anthropic published its S-1 on October 26, 2026, but its expenses are presented by nature, and this book could not read this split from it.
+
 ---
 
 ## 4. And There Is No Registry Elsewhere
@@ -1468,6 +1600,14 @@ What cannot be observed cannot be improved.<br/>
    <https://www.cac.gov.cn/2024-04/02/c_1713729983803145.htm>
 3. MiniMax (HKEX 00100), "Annual Results Announcement for the Year Ended December 31, 2025" (March 2, 2026; auditor Ernst & Young) — source for cost of sales US$58,959k, R&D expenses US$252,771k, gross margin 25.4%, and the 73.0% geographic split<br/>
    <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0302/2026030202837.pdf>
+
+(Added on November 6, 2026)<br/>
+4. MiniMax (HKEX 00100), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 26, 2026)<br/>
+   <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0826/2026082600680.pdf>
+5. Zhipu (Z.AI Co., Ltd., HKEX 2513), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 31, 2026)<br/>
+   <https://ea-cdn.eurolandir.com/press-releases-attachments/4174939/HKEX-EPS_20260831_12308928_0.PDF>
+6. Anthropic, PBC, "Form S-1" (October 26, 2026)<br/>
+   <https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm>
 
 **Note**: Section 2 of this chapter is not legal advice. Whether filing is required for a generative AI service in China, and the procedure involved, must be confirmed with specialists on the basis of Chinese law and the authorities' operational practice. What this book provides is the location of precedents only.
 
@@ -1510,6 +1650,10 @@ The following primary sources had not been reached at the time of writing.
 (Added on October 18, 2026)<br/>
 On item 6: on September 3, 2026, Reuters reported that Moonshot AI（月之暗面）had filed confidentially for a listing on the Hong Kong Stock Exchange. According to the report, the fundraising target is about US$3bn and the valuation about US$50bn.<br/>
 This book confirmed the report through a secondary source summarising the Reuters article. It has not reached the exchange's disclosure documents or an announcement from the company. Item 6 therefore remains unreached.
+
+(Added on November 6, 2026)<br/>
+On item 1: this book has reached the original of Zhipu's annual results announcement for fiscal 2025 (March 31, 2026; auditor KPMG). The addendum to Chapter 6 checks the reported figures against the original. Item 1 is now reached.<br/>
+On item 6: as of November 6, 2026, this book has still not reached the exchange's disclosure documents or an announcement from the company.
 
 ## Why "World First" Is Not Written Here
 
@@ -1587,6 +1731,11 @@ The ledger is public.
 - Official materials on the sales model and deployment scale of the compute platforms behind iFlytek（科大讯飞）"Spark" and SenseTime（商汤科技）"SenseCore"
 - The CAC notice of July 2025 (cumulative figures as of June 30, 2025)
 - Primary sources on the valuation of Moonshot AI（月之暗面）
+
+(Added on November 6, 2026)<br/>
+The first item above (the original fiscal 2025 statements of Zhipu) was reached on November 6, 2026 (reference 6).<br/>
+6. Zhipu (Knowledge Atlas Technology Joint Stock Company Limited, HKEX 2513), "Annual Results Announcement for the Year Ended 31 December 2025" (March 31, 2026; auditor KPMG)<br/>
+   <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033101549.pdf>
 
 <br/>
 
