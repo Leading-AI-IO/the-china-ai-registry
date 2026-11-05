@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--18-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--06-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -42,6 +42,14 @@
 > Following the CAC notice of 14 September 2026, the cumulative totals as of
 > 31 August 2026 stand at 1,112 services and 731 applications.
 >
+> (Added on November 6, 2026)<br>
+> In their interim announcements of August 2026, MiniMax and Zhipu both again
+> record part of their compute cost in R&D. In H1 2026, Zhipu shifted to a
+> structure in which cloud deployment accounts for 86.5% of revenue. Anthropic's
+> S-1 (October 26, 2026) presents expenses by nature, so this split cannot be
+> read from it. On 23 September 2026, the CAC separately announced the filing of
+> three on-device generative AI services.
+>
 > **Disclosure**: The author has no commercial relationship with any Chinese
 > government agency, AI company, or semiconductor firm, and receives no funding
 > from any of them. This is independent analysis. Government notices are treated
@@ -65,6 +73,9 @@ Providing a generative AI service in China requires filing with the authorities.
 (Added on October 18, 2026)<br>
 On 14 September 2026, the CAC published the notice for July and August 2026. With 124 new filings (seven of them services that run on the smartphone itself) and 133 new registrations, the cumulative totals as of 31 August 2026 stand at **1,112 services and 731 applications**. There are now thirteen sets of attachments.
 
+(Added on November 6, 2026)<br>
+On 23 September 2026, the CAC announced, separately from its bimonthly notices, the filing of three generative AI services that run on the smartphone itself (Honor's "YOYO Claw", Xiaomi's "Xiaomi miclaw" and "阶跃终端 AI" / StepFun Terminal AI). As of 6 November 2026, the notice covering September–October 2026 has not been published.
+
 What is on it? **Converter control in a steel mill** (Hebei Yongyang Special Steel). **Mine safety management**. **A water utility's call centre** (Beijing Waterworks Group). **A municipal hotline** (the Beijing Citizen Hotline Service Center's "12345 agent"). **Pressure-ulcer management** (Jiangsu Province Hospital's "PressGuard"). **Disaster response** (two filings by the Big Data Center of the Ministry of Emergency Management). Backbone enterprises in oil, gas pipelines, electric power, aviation, logistics and aluminium have filed their own large models. **Not a conversational assistant, and not internal document search — processes and public services themselves.**
 
 Foreign companies are on the same list. **Tesla Shanghai** (No. 843), **IKEA China** (No. 825), **Siemens China** (No. 674), **Coca-Cola Shanghai** (No. 877), **BMW China** (No. 912), **ASUS Shanghai** (No. 823) — in the same column structure, in the same running sequence as Chinese firms. For companies with China operations, this is directly a body of precedent.
@@ -76,6 +87,9 @@ The basis of classification also sits on the authorities' side. The jurisdiction
 The ordering also runs against the common account. Filing begins on 31 August 2023 with eight entries on the same day: Baidu, Zhipu, ByteDance, Baichuan, **the Institute of Automation of the Chinese Academy of Sciences**, MiniMax, SenseTime and **Shanghai AI Lab** — a national research institute is in from day one. **DeepSeek, meanwhile, is No. 152, filed 13 May 2024** — 76 times later than Zhipu and 9.5 times later than Moonshot.
 
 And on disclosure, the common account is inverted. **Zhipu (HKEX 2513) and MiniMax (HKEX 00100) listed in Hong Kong in January 2026 and publish audited annual results.** MiniMax's fiscal 2025 shows revenue of US$79.0m (+158.9%), a 25.4% gross margin, and **73.0% of revenue from outside mainland China**. The largest compute spend is recorded not in cost of sales but in **R&D expenses (US$252.8m, 4.3 times cost of sales)** — so **the 25.4% gross margin looks only at inference**. Benchmark another company's gross margin without knowing about this split and you will badly understate the capital your own AI service requires. The same cannot be confirmed for OpenAI or Anthropic. Both are private.
+
+(Added on November 6, 2026)<br>
+In the interim announcements of August 2026, R&D was 3.1 times cost of sales at MiniMax and 3.0 times at Zhipu; both record part of their compute cost in R&D. Within six months, Zhipu shifted to a structure in which cloud deployment (open platform and API) accounts for 86.5% of revenue. Anthropic published its S-1 on October 26, 2026, but its expenses are presented by nature, and the split between training and inference cannot be read from it.
 
 **There are three things a reader can take away.** (1) Chapter 4 organises the 988 by industry so you can **look up deployment cases in your own sector at the level of company and model name**. (2) Chapter 8 draws **precedents for entering the Chinese market** from the six foreign subsidiaries. (3) Chapter 6 **reads the economics of an AI business in audited real figures**.
 
@@ -106,6 +120,7 @@ Note that the opening line ("under 1%") requires no update as the denominator gr
 | --- | --- | --- |
 | **v1.0** | 2026-08-28 | Initial release (filings Nos. 1–988 / registrations Nos. 1–598; Attachments 1–12 fully joined) |
 | **v1.1** | 2026-10-18 | Added the cumulative figures from the CAC notice of 14 September 2026 (July–August 2026): 1,112 filings / 731 registrations. Joining the entries in Attachment 13 and recounting the industry and jurisdiction distributions in Chapter 4 are left to the next version. Added news reporting on Moonshot AI's Hong Kong listing application to the Epilogue (based on news reporting) |
+| **v1.2** | 2026-11-06 | Added to Chapter 6 the H1 2026 interim announcements of MiniMax and Zhipu, the original of Zhipu's fiscal 2025 annual results announcement (resolving the conflict between reported figures), and Anthropic's S-1 (October 26, 2026). Recorded that the statement on Zhipu's "opposite revenue structure" did not hold for H1 2026. Added the CAC notice of September 23, 2026 (three on-device services, including "阶跃终端 AI") to Chapters 1 and 5. Marked item 1 of the Epilogue's unreached sources as reached. Joining Attachment 13 onward will follow the notice covering September–October 2026 |
 
 ---
 
@@ -187,6 +202,9 @@ In particular, information is welcome from anyone who knows a route to the prima
 - The licence and actual weight-distribution status of GLM-5.3
 - The chips used for training at each company
 - The sales model and deployment scale of the compute platforms behind iFlytek's "Spark" and SenseTime's "SenseCore"
+
+(Added on November 6, 2026)<br>
+The first item, the original fiscal 2025 financial statements of Zhipu (HKEX 2513), was reached in v1.2.
 
 ---
 

@@ -5,7 +5,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--18-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--06-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -35,6 +35,13 @@
 > （2026年10月18日追記）<br>
 > 2026年9月14日の公告で、2026年8月31日時点の累計は備案1,112件、登記731件になった。
 >
+> （2026年11月6日追記）<br>
+> 2026年8月の中間公告でも、MiniMaxと智譜はともに計算資源のコストの一部を
+> 研究開発費に計上していた。智譜は2026年上半期に、売上の86.5%をクラウド配置が
+> 占める構造へ変わった。AnthropicのS-1（2026年10月26日）は費用を性質別に示しており、
+> この分離は読み取れない。2026年9月23日には、端末側の生成AIサービス3件の備案が
+> 個別に公告された。
+>
 > **This book** is a structural analysis by Satoshi Yamauchi that uses China's
 > official generative-AI filing registry as its population. As of 30 June 2026,
 > 988 services and 598 applications are registered, and the named lists are
@@ -50,6 +57,14 @@
 > (Added on October 18, 2026)<br>
 > Following the CAC notice of 14 September 2026, the cumulative totals as of
 > 31 August 2026 stand at 1,112 services and 731 applications.
+>
+> (Added on November 6, 2026)<br>
+> In their interim announcements of August 2026, MiniMax and Zhipu both again
+> record part of their compute cost in R&D. In H1 2026, Zhipu shifted to a
+> structure in which cloud deployment accounts for 86.5% of revenue. Anthropic's
+> S-1 (October 26, 2026) presents expenses by nature, so this split cannot be
+> read from it. On 23 September 2026, the CAC separately announced the filing of
+> three on-device generative AI services.
 >
 > **利害関係の開示 / Disclosure**：著者は中国の政府機関、AI企業、半導体企業の
 > いずれとも取引関係を持たず、いずれからも資金提供を受けていない。本書は
@@ -78,6 +93,9 @@ DeepSeek。Qwen。Kimi。GLM。MiniMax。日本語圏で「中国のAIモデル�
 （2026年10月18日追記）<br>
 2026年9月14日、CACは2026年7月から8月の分を公告した。新たに備案124件（うちスマートフォンの端末側で動くサービス7件）、登記133件が加わり、2026年8月31日時点の累計は**備案1,112件、登記731件**になった。附件は13回分になった。
 
+（2026年11月6日追記）<br>
+2026年9月23日、CACは、スマートフォンの端末側で動く生成AIサービス3件（荣耀「YOYO Claw」、小米「Xiaomi miclaw」、「阶跃终端 AI」）の備案を、2ヶ月ごとの公告とは別に公告した。2026年11月6日時点で、2026年9月から10月の分の公告は出ていない。
+
 そこに何があるか。**製鉄所の転炉制御**（河北永洋特鋼「転炉智能煉鋼大模型」）。**鉱山の安全生産管理**。**水道局のコールセンター**（北京市自来水集団「京水客服」）。**市民ホットライン**（北京市市民熱線服務中心「12345智能体」）。**褥瘡の管理支援**（江蘇省人民医院「舒圧伴・PressGuard」）。**災害対応**（応急管理部大数据中心「久安-知言」「久安-知図」）。石油・天然ガス管網・電力・航空・物流・アルミの基幹企業が、自前の大規模モデルを登録している。**対話アシスタントでも社内文書検索でもない。プロセスと公共サービスそのものである。**
 
 外資も同じ名簿にいる。**テスラ上海**（序号843）、**IKEA中国**（序号825）、**シーメンス中国**（序号674）、**コカ・コーラ上海**（序号877）、**BMW中国**（序号912）、**ASUS上海**（序号823）。中国企業と同じ列構成で、通し番号で並んでいる。中国事業を持つ企業にとっては、そのまま先例の所在になる。
@@ -89,6 +107,9 @@ DeepSeek。Qwen。Kimi。GLM。MiniMax。日本語圏で「中国のAIモデル�
 順序にも通説とのずれがある。備案の起点は2023年8月31日で、同日に8件が並ぶ。百度、智譜、ByteDance、百川、**中国科学院自動化研究所**、MiniMax、SenseTime、**上海AI Lab**——国家研究機関が初日から入っている。一方、**DeepSeekは序号152、2024年5月13日である。** 智譜の76倍、Moonshotの9.5倍遅い。
 
 そして開示では、通説が逆転している。**智譜（HKEX 2513）とMiniMax（HKEX 00100）は2026年1月に香港上場を果たし、監査済みの年度決算を公表している。** MiniMaxの2025年度は売上US$79.0百万（+158.9%）、粗利率25.4%、うち**73.0%が中国本土外**。最大の計算資源支出は売上原価ではなく**R&D費用（US$252.8百万・売上原価の4.3倍）**に計上されており、**粗利率25.4%は推論だけを見た数字である。** 自社でAIサービスの収支計画を立てるとき、この分離を知らずに他社の粗利率をベンチマークすると、必要な資金を大きく見誤る。同じことをOpenAI・Anthropicについて確認することはできない。両社とも非上場である。
+
+（2026年11月6日追記）<br>
+2026年8月の中間公告では、R&D費用は売上原価の、MiniMaxで3.1倍、智譜で3.0倍だった。両社とも、計算資源のコストの一部を研究開発費に計上している。智譜は半年で、売上の86.5%をクラウド配置（オープンプラットフォームとAPI）が占める構造に変わった。Anthropicは2026年10月26日にS-1を公開したが、費用は性質別に表示されており、学習と推論の分離は読み取れない。
 
 **読者が持ち帰れるものは三つある。**（1）第4章で988件を業種別に整理し、**自業界の実装事例を社名とモデル名のレベルで引ける**形にする。（2）第8章で外資6社の備案から、**中国市場に出すときの実務の先例**を示す。（3）第6章で**AI事業の経済性を監査済みの実数で読む**。
 
@@ -117,6 +138,7 @@ DeepSeek。Qwen。Kimi。GLM。MiniMax。日本語圏で「中国のAIモデル�
 | --- | --- | --- |
 | **v1.0** | 2026-08-28 | 初版公開（備案 序号1〜988／登記 序号1〜598・附件1〜12 全数連結） |
 | **v1.1** | 2026-10-18 | CACの2026年9月14日公告（2026年7〜8月分）の累計値を追記（備案1,112件／登記731件）。附件13の個票の連結と、第4章の業種別・属地別の数え直しは次版で行う。終章に、Moonshot AIの香港上場申請の報道を追記（報道ベース） |
+| **v1.2** | 2026-11-06 | 第6章に、MiniMax・智譜の2026年上半期の中間公告、智譜の2025年度年度業績公告の原本（報道間の数値の衝突を解消）、AnthropicのS-1（2026年10月26日）を追記。智譜の「正反対の収益構造」の記述が、2026年上半期については外れたことを記録。第1章・第5章に、CACの2026年9月23日公告（端末側3件、「阶跃终端 AI」を含む）を追記。終章の未到達資料1を到達済みにした。附件13以降の連結は、2026年9〜10月分の公告の後に行う |
 
 ---
 
@@ -198,6 +220,9 @@ Issues and Pull Requests are welcome. 本書の構造分析に対するフィー
 - GLM-5.3のライセンスおよび重みの実配布状況
 - 各社の学習に用いられたチップ
 - iFlytek「星火」・SenseTime「大装置」の計算基盤の販売形態と導入規模
+
+（2026年11月6日追記）<br>
+一つ目の「智譜（HKEX 2513）2025年度決算の原本」には、v1.2で到達した。
 
 ---
 
