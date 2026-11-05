@@ -418,8 +418,8 @@ Confirming that the sequence numbers connect without gaps once Attachment 13 is 
 
 (Added on November 6, 2026)<br/>
 On September 23, 2026, the CAC published, separately from its bimonthly notices, the filing of three generative AI services that run on-device on smartphones.<br/>
-They are "YOYO Claw" (深圳荣耀软件技术有限公司, for Honor phones), "Xiaomi miclaw" (小米科技有限责任公司, for Xiaomi phones) and "阶跃终端 AI" (StepFun Terminal AI; 智源星辰（上海）智能科技有限公司, for StepFun phones).<br/>
-The notice presents the breakdown of the three as an image, which this book could not confirm as text. The service names and providers come from IT Home's report, which quotes the official account of 网信中国.<br/>
+They are "YOYO Claw" (provided by Honor's Shenzhen software entity, 深圳荣耀软件技术有限公司, for Honor phones), "Xiaomi miclaw" (provided by Xiaomi Inc., 小米科技有限责任公司, for Xiaomi phones) and "阶跃终端 AI" (StepFun Terminal AI; provided by 智源星辰（上海）智能科技有限公司, a Shanghai company whose English name this book has not confirmed, for StepFun phones).<br/>
+The notice presents the breakdown of the three as an image, which this book could not confirm as text. The service names and providers come from IT Home's report, which quotes the CAC's official account (网信中国).<br/>
 The notice of September 14 states that 7 of its 124 filings were on-device services. Whether the three filed on September 23 will be counted in the next bimonthly notice will be checked against that notice.<br/>
 As of November 6, 2026, the notice covering September–October 2026 has not been published, and this book has not yet joined the entries in Attachment 13.
 
@@ -995,8 +995,8 @@ This book states that STEPX Neo was **announced and exhibited.**<br/>
 It does not state that it **shipped.** No primary source establishing mass-production shipment or sales has been reached.
 
 (Added on November 6, 2026)<br/>
-The CAC notice of September 23, 2026 (see the addendum to Chapter 1) includes "阶跃终端 AI" (StepFun Terminal AI). The device is listed as "阶跃手机" (StepFun phone), the provider is 智源星辰（上海）智能科技有限公司, and the filing date is September 22, 2026 (IT Home report).<br/>
-The provider's name differs from that of the entity filed at No. 35 (上海阶跃星辰智能科技). This book has not confirmed the relationship between the two. Nor can the notice tell us whether the "StepFun phone" is the same device as STEPX Neo.<br/>
+The CAC notice of September 23, 2026 (see the addendum to Chapter 1) includes "阶跃终端 AI" (StepFun Terminal AI). The device is listed as "阶跃手机" (StepFun phone), the provider is 智源星辰（上海）智能科技有限公司 (a Shanghai company; English name not confirmed), and the filing date is September 22, 2026 (IT Home report).<br/>
+The provider's name differs from that of the entity filed at No. 35 (StepFun, 上海阶跃星辰智能科技). This book has not confirmed the relationship between the two. Nor can the notice tell us whether the "StepFun phone" is the same device as STEPX Neo.<br/>
 A filing shows that the provision of a service has been notified to the authorities. It does not show shipments or sales. This book therefore continues not to state that STEPX Neo **shipped.**
 
 ## Training Chips Are Unknown for Most Companies
@@ -1188,7 +1188,7 @@ One conflict between reports cannot be resolved.<br/>
 Some outlets list both as separate items. Which is correct cannot be determined without opening the original statements. **This book will not use either figure on its own until primary verification is complete.**
 
 (Added on November 6, 2026)<br/>
-This book has now reached the original of Zhipu's annual results announcement for fiscal 2025 (March 31, 2026; auditor KPMG).<br/>
+This book has now reached the original of Zhipu AI (Z.ai)'s annual results announcement for fiscal 2025 (March 31, 2026; auditor KPMG).<br/>
 **The two figures were not in conflict.** R&D expenses were RMB3,180,443k (+44.9%) and adjusted net loss was RMB3,181,972k (+29.1%): two separate items that both round to RMB3.18bn. The outlets that listed both as separate items were correct.<br/>
 The reported figures in the table above also match the original within rounding.
 
@@ -1217,7 +1217,7 @@ Zhipu's on-premise deployment accounts for a 49% gross margin, and is reported t
 A single category called "Chinese AI labs" does not hold up against audited figures.
 
 (Added on November 6, 2026)<br/>
-On August 31, 2026, Zhipu announced its interim results for the six months ended June 30, 2026.
+On August 31, 2026, Zhipu AI (Z.ai) announced its interim results for the six months ended June 30, 2026.
 
 | Item | H1 2026 | H1 2025 | Change |
 | --- | --- | --- | --- |
@@ -1310,7 +1310,7 @@ Expenses are presented by nature, not by function.
 
 The operating loss for H1 2026 was US$693 million. The net loss was US$80,748 million, most of it (US$72,388 million) from changes in the fair value of convertible notes and similar instruments.<br/>
 The S-1 defines "compute" as the computational processing resources used to train and run AI models. In the parts this book read, however, it found no split of compute cost between training and inference, no cost of revenue or gross margin, and no breakdown of revenue between API and subscriptions.<br/>
-**The split this chapter read in MiniMax and Zhipu — training to R&D, inference to cost of sales — cannot be read from Anthropic's S-1.**<br/>
+**The split this chapter read in MiniMax and Zhipu AI (Z.ai) — training to R&D, inference to cost of sales — cannot be read from Anthropic's S-1.**<br/>
 OpenAI announced in June 2026 that it had filed an S-1 confidentially. As of November 6, 2026, this book has not reached a public version.<br/>
 **The asymmetry of disclosure has moved from "whether there is disclosure" to "whether the disclosure answers the same question."** The figure above is kept as the state of affairs at the end of August 2026.
 
@@ -1325,7 +1325,7 @@ OpenAI announced in June 2026 that it had filed an S-1 confidentially. As of Nov
 (Added on November 6, 2026)<br/>
 4. MiniMax (HKEX 00100), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 26, 2026)<br/>
    <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0826/2026082600680.pdf>
-5. Zhipu (Knowledge Atlas Technology Joint Stock Company Limited, HKEX 2513), "Annual Results Announcement for the Year Ended 31 December 2025" (March 31, 2026; auditor KPMG)<br/>
+5. Zhipu AI / Z.ai (Knowledge Atlas Technology Joint Stock Company Limited, HKEX 2513), "Annual Results Announcement for the Year Ended 31 December 2025" (March 31, 2026; auditor KPMG)<br/>
    <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033101549.pdf>
 6. Zhipu (Z.AI Co., Ltd., HKEX 2513), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 31, 2026) — the HKEX announcement file, accessed via Euroland<br/>
    <https://ea-cdn.eurolandir.com/press-releases-attachments/4174939/HKEX-EPS_20260831_12308928_0.PDF>
@@ -1444,7 +1444,7 @@ Following the notice of September 14, 2026 (covering July and August 2026), this
 The appendix lists and the jurisdiction distribution in Chapter 4 will be recounted after the entries in Attachment 13 have been joined.
 
 (Added on November 6, 2026)<br/>
-In this version, following the "Listed company results disclosed" row of the table, this book has added to Chapter 6 the H1 2026 interim announcements of MiniMax and Zhipu, the original of Zhipu's fiscal 2025 annual results announcement, and Anthropic's S-1.<br/>
+In this version, following the "Listed company results disclosed" row of the table, this book has added to Chapter 6 the H1 2026 interim announcements of MiniMax and Zhipu AI (Z.ai), the original of Zhipu's fiscal 2025 annual results announcement, and Anthropic's S-1.<br/>
 As of November 6, 2026, the CAC notice covering September–October 2026 has not been published. Joining Attachment 13 onward and recounting Chapter 4 will follow that notice.
 
 ### References
@@ -1563,7 +1563,7 @@ There is no single template called "the AI company business model."<br/>
 **Growing through overseas consumers and growing through domestic enterprise demand different organisations, different uses of capital, and different risks.** Which to choose is a question of business design, not technology.
 
 (Added on November 6, 2026)<br/>
-As the addendum to Chapter 6 shows, in Zhipu's H1 2026 interim announcement 86.5% of revenue came from cloud deployment (open platform and API), and on-premise deployment fell to 13.5%.<br/>
+As the addendum to Chapter 6 shows, in Zhipu AI (Z.ai)'s H1 2026 interim announcement 86.5% of revenue came from cloud deployment (open platform and API), and on-premise deployment fell to 13.5%.<br/>
 The two paths are not fixed choices. Even after listing, a company can switch within six months.<br/>
 The lesson that compute cost is split between cost of sales and R&D, on the other hand, holds in both companies' interim announcements (R&D was 3.1 times cost of sales at MiniMax and 3.0 times at Zhipu).<br/>
 Anthropic published its S-1 on October 26, 2026, but its expenses are presented by nature, and this book could not read this split from it.
@@ -1604,7 +1604,7 @@ What cannot be observed cannot be improved.<br/>
 (Added on November 6, 2026)<br/>
 4. MiniMax (HKEX 00100), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 26, 2026)<br/>
    <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0826/2026082600680.pdf>
-5. Zhipu (Z.AI Co., Ltd., HKEX 2513), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 31, 2026)<br/>
+5. Zhipu AI / Z.ai (Z.AI Co., Ltd., HKEX 2513), "Interim Results Announcement for the Six Months Ended June 30, 2026" (August 31, 2026)<br/>
    <https://ea-cdn.eurolandir.com/press-releases-attachments/4174939/HKEX-EPS_20260831_12308928_0.PDF>
 6. Anthropic, PBC, "Form S-1" (October 26, 2026)<br/>
    <https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm>
@@ -1652,7 +1652,7 @@ On item 6: on September 3, 2026, Reuters reported that Moonshot AI（月之暗�
 This book confirmed the report through a secondary source summarising the Reuters article. It has not reached the exchange's disclosure documents or an announcement from the company. Item 6 therefore remains unreached.
 
 (Added on November 6, 2026)<br/>
-On item 1: this book has reached the original of Zhipu's annual results announcement for fiscal 2025 (March 31, 2026; auditor KPMG). The addendum to Chapter 6 checks the reported figures against the original. Item 1 is now reached.<br/>
+On item 1: this book has reached the original of Zhipu AI (Z.ai)'s annual results announcement for fiscal 2025 (March 31, 2026; auditor KPMG). The addendum to Chapter 6 checks the reported figures against the original. Item 1 is now reached.<br/>
 On item 6: as of November 6, 2026, this book has still not reached the exchange's disclosure documents or an announcement from the company.
 
 ## Why "World First" Is Not Written Here
@@ -1733,7 +1733,7 @@ The ledger is public.
 - Primary sources on the valuation of Moonshot AI（月之暗面）
 
 (Added on November 6, 2026)<br/>
-The first item above (the original fiscal 2025 statements of Zhipu) was reached on November 6, 2026 (reference 6).<br/>
+The first item above (the original fiscal 2025 statements of Zhipu AI (Z.ai)) was reached on November 6, 2026 (reference 6).<br/>
 6. Zhipu (Knowledge Atlas Technology Joint Stock Company Limited, HKEX 2513), "Annual Results Announcement for the Year Ended 31 December 2025" (March 31, 2026; auditor KPMG)<br/>
    <https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033101549.pdf>
 
