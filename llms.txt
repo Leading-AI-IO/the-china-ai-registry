@@ -25,6 +25,15 @@
 > (Attachments 1–14), the jurisdiction 国资委 carries 16 filings by 15
 > central state-owned enterprises, not eleven.
 
+> (Added on November 22, 2026)
+> Version 1.3.1 (November 22, 2026) is archived on Zenodo with a DOI. The
+> registry is checked roughly once a month, and a new version is archived when
+> a new attachment is connected.
+>
+> (Added on November 22, 2026)
+> DOI of version 1.3.1: 10.5281/zenodo.24429942. DOI for all versions (always resolves to the
+> latest): 10.5281/zenodo.24429941.
+
 ## Data
 
 (Added on November 22, 2026)

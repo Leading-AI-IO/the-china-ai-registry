@@ -7,6 +7,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 [![Data](https://img.shields.io/badge/Data-1%2C245%20filings%20%7C%20955%20registrations-orange)](data/)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429941.svg)](https://doi.org/10.5281/zenodo.24429941)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -174,6 +175,7 @@ v1.3から、本書が連結した名簿を、機械で読めるデータとし�
 | **v1.2** | 2026-11-06 | 第6章に、MiniMax・智譜（Zhipu AI / Z.ai）の2026年上半期の中間公告、智譜の2025年度年度業績公告の原本（報道間の数値の衝突を解消）、AnthropicのS-1（2026年10月26日）を追記。智譜の「正反対の収益構造」の記述が、2026年上半期については外れたことを記録。第1章・第5章に、CACの2026年9月23日公告（端末側3件、「阶跃终端 AI」を含む）を追記。終章の未到達資料1を到達済みにした。附件13以降の連結は、2026年9〜10月分の公告の後に行う |
 | **v1.3** | 2026-11-22 | 名簿のデータを公開（`data/registry.json` を正本とし、表ごとのCSVと `sources.csv` を生成）。附件1〜14を連結し（備案1,234行・端末側の備案10行・擬人化された対話の備案1行・登記955行・備案の変更1行）、データ定義（`docs/DATA_SPEC.md`）と更新手順書（`docs/UPDATE_RUNBOOK.md`）を定めた。序章（概要）・第1章に、2026年11月20日の公告（2026年9〜10月分）と附件13・14の新しい表を追記した。本文の3か所の件数を、データに基づいて訂正した（属地「国资委」の備案を11件→16件・15法人、上海汉枢科技のLongCatを5件→4件、小米科技有限责任公司の備案を3件→6件）。第4章の分布の数え直しは次版で行う |
 | **v1.3.1** | 2026-11-22 | Zenodoで版を保存してDOIを付けるため、引用情報（`CITATION.cff`・`.zenodo.json`）を加えた。本文とデータはv1.3と同じ（`data/registry.json` の版は1.3のまま）。更新手順書に第6節（版の保存とDOI）を加えた。第4章の分布の数え直しは次版（v1.4）で行う |
+| — | 2026-11-22 | v1.3.1のDOIを `CITATION.cff` とREADMEに記載（版のDOI 10.5281/zenodo.24429942、全版のDOI 10.5281/zenodo.24429941）。DOIはReleaseの後でしか分からないため、Zenodoに保存された版のファイルには含まれない |
 
 ---
 

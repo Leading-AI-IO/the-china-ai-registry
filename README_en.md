@@ -6,6 +6,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 [![Data](https://img.shields.io/badge/Data-1%2C245%20filings%20%7C%20955%20registrations-orange)](data/)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429941.svg)](https://doi.org/10.5281/zenodo.24429941)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -162,6 +163,7 @@ Note that the opening line ("under 1%") requires no update as the denominator gr
 | **v1.2** | 2026-11-06 | Added to Chapter 6 the H1 2026 interim announcements of MiniMax and Zhipu AI (Z.ai), the original of Zhipu's fiscal 2025 annual results announcement (resolving the conflict between reported figures), and Anthropic's S-1 (October 26, 2026). Recorded that the statement on Zhipu's "opposite revenue structure" did not hold for H1 2026. Added the CAC notice of September 23, 2026 (three on-device services, including "阶跃终端 AI") to Chapters 1 and 5. Marked item 1 of the Epilogue's unreached sources as reached. Joining Attachment 13 onward will follow the notice covering September–October 2026 |
 | **v1.3** | 2026-11-22 | Published the registry as data (`data/registry.json` is canonical; one CSV per table and `sources.csv` are generated from it). Joined Attachments 1–14 (1,234 filings, 10 on-device filings, 1 anthropomorphic-interaction filing, 955 registrations, 1 filing change) and established the data specification (`docs/DATA_SPEC_en.md`) and the update runbook (`docs/UPDATE_RUNBOOK_en.md`). Added the notice of 20 November 2026 (September–October 2026) and the new tables of Attachments 13 and 14 to the Overview and Chapter 1. Corrected three counts in the body against the data (filings under 国资委: eleven enterprises → 16 filings by 15 enterprises; Shanghai Hanshu Technology's LongCat filings: five → four; Xiaomi Inc.'s filings: three → six). Recounting the Chapter 4 distributions is left to the next version |
 | **v1.3.1** | 2026-11-22 | Added citation files (`CITATION.cff`, `.zenodo.json`) so that the version can be archived on Zenodo with a DOI. Text and data are identical to v1.3 (the version in `data/registry.json` remains 1.3). Added Section 6 (archiving versions and DOIs) to the update runbook. Recounting the Chapter 4 distributions is left to the next version (v1.4) |
+| — | 2026-11-22 | Recorded the DOIs of v1.3.1 in `CITATION.cff` and the README (version DOI 10.5281/zenodo.24429942; DOI for all versions 10.5281/zenodo.24429941). A DOI is known only after the Release, so it is not contained in the archived files of the version |
 
 ---
 
