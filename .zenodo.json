@@ -1,0 +1,32 @@
+{
+  "title": "The China AI Registry",
+  "upload_type": "dataset",
+  "publication_date": "2026-11-22",
+  "description": "<p>A registry by Satoshi Yamauchi (Japanese title: 988の名簿) that transcribes every row of the attachments (delta lists) to the notices \"Generative AI services filed (and registered)\" published by the Cyberspace Administration of China (CAC). Providing a generative AI service in China requires filing (备案) with the authorities, and the CAC publishes the filed and registered services with company names roughly every two months. Rows are transcribed from the attachment PDFs in their source column positions and characters; typos, column shifts and carry-overs are not corrected but recorded as observation codes, and each attachment is identified by the SHA-256 of its PDF. Only rows printed in an attachment PDF are admitted; no row is created from press reports, provincial cyberspace offices or company announcements, and every row of a connected attachment is admitted without exception. Each serial-number series is kept as its own table: filings, on-device filings, anthropomorphic-interaction filings, registrations and filing changes. Filing changes are appended without rewriting the original filing row. Only the author writes to the registry, with PGP-signed commits. The canonical data is data/registry.json; one CSV per table and data/sources.csv are generated from it. The data specification (docs/DATA_SPEC.md) and the update runbook (docs/UPDATE_RUNBOOK.md) are published with the data. The repository also contains a structural analysis of China's AI industry that uses the registry as its population, in Japanese and English editions. This archived version (v1.3.1, 22 November 2026) joins Attachments 1 to 14 (April 2024 to October 2026): as of 31 October 2026, 1,234 filings, 10 on-device filings and 1 anthropomorphic-interaction filing (1,245 in total, matching the CAC cumulative figure), 955 registrations and 1 filing change. Its text and data are identical to v1.3; v1.3.1 adds only the citation files. The CAC publication page is checked roughly once a month, and new attachments are joined when they appear.</p><p>中国の国家互联网信息办公室（CAC）が公告する「生成式人工智能服务已备案（和已登记）信息」の附件（差分名簿）の全行を転記した、山内怜史による台帳。中国では生成AIサービスの提供に当局への備案（登録）が要り、CACは備案・登記済みのサービスを社名入りで約2か月ごとに公告している。行は附件のPDFから原表の列位置と文字のまま転記し、誤字・列のずれ・混入は直さず観察コードとして記録する。附件はPDFのSHA-256で特定する。附件のPDFに書かれている行だけを収め、報道・地方の網信部門の発表・企業の発表からは行を起こさず、連結した附件の行は例外なくすべて収める。序号の系列ごとに1つの表とする（備案、端末側の備案、擬人化された対話の備案、登記、備案の変更）。備案の変更は、元の備案の行を書き換えずに追記する。台帳に書くのは著者一人で、コミットには署名を付ける。正本は data/registry.json で、表ごとのCSVと data/sources.csv はそこから生成する。データ定義（docs/DATA_SPEC.md）と更新手順書（docs/UPDATE_RUNBOOK.md）をデータとともに公開する。リポジトリには、この台帳を母集団にした中国のAI産業の構造分析（日本語版・英語版）も収める。この版（v1.3.1、2026年11月22日）は附件1〜14（2024年4月〜2026年10月）を連結しており、2026年10月31日時点で備案1,234行・端末側の備案10行・擬人化された対話の備案1行（計1,245行で、CACの公告の累計と一致）、登記955行、備案の変更1行を収める。本文とデータはv1.3と同じで、v1.3.1では引用情報のファイルだけを加えた。CACの公表ページは月に1回程度確認し、新しい附件があれば連結する。</p>",
+  "creators": [
+    {
+      "name": "Yamauchi, Satoshi",
+      "affiliation": "Leading.AI LLC",
+      "orcid": "0009-0002-1976-656X"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "jpn",
+  "keywords": [
+    "generative AI",
+    "China",
+    "Cyberspace Administration of China",
+    "algorithm filing",
+    "registry",
+    "artificial intelligence",
+    "生成式人工智能",
+    "备案"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Leading-AI-IO/the-china-ai-registry",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

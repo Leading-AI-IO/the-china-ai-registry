@@ -180,6 +180,20 @@ git verify-commit HEAD
 
 ---
 
+## 6. 版の保存（Zenodo）とDOI
+
+（2026年11月22日追記）<br>
+v1.3.1から、版をZenodoに保存し、DOIを付ける。GitHubとZenodoの連携で、GitHubのReleaseを作ると、その時点のリポジトリがZenodoに保存される。
+
+- 連携は、Zenodoの「GitHub」画面で、このリポジトリのスイッチをオンにして行う。**オンにした後に作ったReleaseだけが保存される。** オンにする前のRelease（v1.0〜v1.3）は保存されない
+- 新しい附件を連結して版を上げたら（第1節）、署名つきタグを付けてpushし、GitHubのReleaseを作る。Zenodoには自動で新しい版が作られる
+- DOIは2種類ある。版ごとのDOIと、すべての版をまとめるDOI（Zenodoの「Cite all versions」）である。READMEのバッジには、すべての版をまとめるDOIを置く。`CITATION.cff` の `doi` には、その時点で最新の版のDOIを書く
+- DOIはReleaseを作った後にしか分からないため、DOIを書き込むコミットは、Releaseの後に別のコミットとして行う。そのコミットのためにReleaseは作らない（保存された版のファイルにはDOIが含まれない）
+- `CITATION.cff` と `.zenodo.json` の `version`・日付・件数は、版を上げるたびに更新する。`CITATION.cff` は `cffconvert --validate` で検証する
+- Zenodoの記録の種別はDataset、ライセンスはCC BY 4.0、著者欄にはORCID（0009-0002-1976-656X）を付ける
+
+---
+
 ## 付録：v1.3（2026年11月22日）での実施の記録
 
 - 附件1〜12のPDFは、著者が2026年8月28日にCACのハブページから取得し、Googleドライブに保存していたものを使った。附件13・14は、著者が2026年11月22日に取得した。各ファイルのSHA-256は `data/sources.csv` にある

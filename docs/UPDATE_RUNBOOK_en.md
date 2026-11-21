@@ -84,6 +84,18 @@ Apply Section 5 and Appendices A–C of the runbook of `the-ai-forecast-registry
 - **Rows in `registry.json` were edited by hand** — restore with `git checkout -- data/registry.json` and redo through Section 1 or 4
 - **CSVs were edited without running the build script** — run `python scripts/build_registry.py` and commit the generated CSVs
 
+## 6. Archiving versions (Zenodo) and DOIs
+
+(Added on November 22, 2026)<br>
+From v1.3.1, versions are archived on Zenodo with a DOI. Through the GitHub–Zenodo integration, creating a GitHub Release archives the repository at that point on Zenodo.
+
+- The integration is enabled by switching this repository on in Zenodo's "GitHub" page. **Only Releases created after it is switched on are archived.** Releases created before (v1.0–v1.3) are not
+- After connecting a new attachment and raising the version (Section 1), push a signed tag and create a GitHub Release. Zenodo creates the new version automatically
+- There are two DOIs: one per version, and one for all versions (Zenodo's "Cite all versions"). The README badge carries the all-versions DOI; `doi` in `CITATION.cff` carries the DOI of the latest version at that time
+- A DOI is known only after the Release is created, so the DOI is written in a separate commit after the Release, and no Release is created for that commit (the archived files of a version do not contain its DOI)
+- Update `version`, dates and counts in `CITATION.cff` and `.zenodo.json` whenever the version is raised, and validate `CITATION.cff` with `cffconvert --validate`
+- The Zenodo record type is Dataset, the license is CC BY 4.0, and the author field carries the ORCID iD (0009-0002-1976-656X)
+
 ## Appendix: record of v1.3 (22 November 2026)
 
 - Attachments 1–12 were the PDFs the author downloaded from CAC's hub page on 28 August 2026 and stored in Google Drive; Attachments 13 and 14 were downloaded by the author on 22 November 2026. SHA-256 hashes are in `data/sources.csv`

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this registry, please cite it as below."
+title: "The China AI Registry"
+type: dataset
+authors:
+  - family-names: Yamauchi
+    given-names: Satoshi
+    affiliation: "Leading.AI LLC"
+    orcid: "https://orcid.org/0009-0002-1976-656X"
+version: "1.3.1"
+date-released: "2026-11-22"
+license: CC-BY-4.0
+repository-code: "https://github.com/Leading-AI-IO/the-china-ai-registry"
+keywords:
+  - generative AI
+  - China
+  - Cyberspace Administration of China
+  - algorithm filing
+  - registry
+  - artificial intelligence
+preferred-citation:
+  type: data
+  title: "The China AI Registry"
+  authors:
+    - family-names: Yamauchi
+      given-names: Satoshi
+  year: 2026
+  date-published: "2026-11-22"
+  version: "1.3.1"
+  url: "https://github.com/Leading-AI-IO/the-china-ai-registry"
