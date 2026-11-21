@@ -423,6 +423,14 @@ The notice presents the breakdown of the three as an image, which this book coul
 The notice of September 14 states that 7 of its 124 filings were on-device services. Whether the three filed on September 23 will be counted in the next bimonthly notice will be checked against that notice.<br/>
 As of November 6, 2026, the notice covering September–October 2026 has not been published, and this book has not yet joined the entries in Attachment 13.
 
+(Added on November 22, 2026)<br/>
+On November 20, 2026, the CAC published the notice for September–October 2026. It added 133 filings and 224 registrations, bringing the cumulative totals as of October 31, 2026 to 1,245 filings and 955 registrations (1,112 + 133 = 1,245; 731 + 224 = 955).<br/>
+This book has joined the entries in Attachments 13 and 14. From Attachment 13, filings of services that run on the smartphone itself are published in a **separate table** whose sequence numbers start at 1 (提供手机端侧生成式人工智能服务已备案信息). Attachment 14 adds a table of filings for anthropomorphic-interaction services (拟人化互动服务场景生成式人工智能服务已备案信息) and a table of changes to filing information (生成式人工智能服务已备案变更信息).<br/>
+The regular filing table runs without gaps to No. 1,234, the on-device table to No. 10, and the anthropomorphic-interaction table to No. 1. Their sum, 1,245, matches the cumulative total in the notice. Registrations run without gaps to No. 955.<br/>
+The three on-device services announced separately on September 23 appear in Attachment 14's on-device table as Nos. 8–10, each with a filing date of 2026/9/23.<br/>
+There is one change to filing information: the filing entity of No. 218, 可灵 (Kling), is listed as 北京可灵科技有限公司(原为北京快手科技有限公司) — Beijing Kling Technology, formerly Beijing Kuaishou Technology — with a change date of 2026/10/30.<br/>
+**The registry now publishes changes as well as additions.** This book's data does not rewrite the original row; the change is recorded in a separate table (`docs/DATA_SPEC_en.md`). The industry and jurisdiction distributions in Chapter 4 have not yet been recounted.
+
 ## Comprehensive, but Not Machine-Readable
 
 Having set out the registry's usefulness, its limits are recorded here as well.
@@ -448,11 +456,15 @@ These three may look trivial. But **so long as the registry is used as a statist
 **The relation between companies and models is one-to-many.**
 
 ModelBest（北京面壁智能科技 / ModelBest）has four filings: No. 20 "MianbiLuka LUCA," No. 625 "MiniCPM-V," No. 673 "MiniCPM-O," and No. 685 "Fazhi Fuyi."<br/>
+(Corrected on November 22, 2026)<br/>
+Checked against the data, Shanghai Hanshu Technology has four filings (No. 699 "LongCatVL," No. 700 "LongCatS," No. 790 "LongCatT2I," No. 791 "LongCatT2V"). The filing entity of No. 202 "LongCatdp" is 上海汉涛信息咨询有限公司 (English name not confirmed), not Shanghai Hanshu Technology. The five filings bearing the LongCat name are split across two legal entities.<br/>
 Shanghai Hanshu Technology（上海汉枢科技, of the Meituan group）has five: "LongCatdp," "LongCatVL," "LongCatS," "LongCatT2I," "LongCatT2V."
 
 **So 988 does not mean 988 companies.**
 
 There is a further complication.<br/>
+(Corrected on November 22, 2026)<br/>
+Recounted across Attachments 1–12, Xiaomi Inc.（小米科技有限责任公司）has six filings (No. 68 "小爱同学AI助手," No. 140 "小米大语言模型," No. 350 "小米澎湃视觉," No. 461 "小米澎湃影像," No. 532 "小米澎湃感知," No. 763 "Xiaomi MiMo"). Besides Meizhuo Software Design's two, another entity also files under the brand: 小米汽车科技有限公司 (Xiaomi's automotive entity; English name not confirmed), No. 572 "小米多端融合." In Attachments 13 and 14, Xiaomi Inc. also filed two entries in the on-device table (No. 5 "小米澎湃AI," No. 8 "Xiaomi miclaw").<br/>
 Xiaomi（小米科技有限責任公司）has three filings, while "Meizhuo Software Design (Beijing)"（美卓軟件設計（北京）有限公司）has two — "Xiaomi on-device text" and "Xiaomi Pengpai imaging."<br/>
 **The same brand is filed under a different legal entity as well.** String matching on company names cannot capture the group's real count.
 
@@ -707,6 +719,18 @@ The author does not have to judge whether a given company is state-owned. **The 
 
 ## Backbone Infrastructure ── Eleven Central State-Owned Enterprises
 
+(Corrected on November 22, 2026)<br/>
+Recounted with the v1.3 data (Attachments 1–14), the jurisdiction 国资委 carries **16 filings by 15 enterprises**. The table below omitted the following four filings in Attachments 10 and 11. Attachments 13 and 14 add no new rows with this jurisdiction.
+
+| No. | Model name | Filing entity | Filing date |
+| --- | --- | --- | --- |
+| 755 | 太阳石大模型 | 中国煤炭科工集团有限公司 (China Coal Technology & Engineering Group) | 2026/1/26 |
+| 759 | 太极 | 东风汽车集团有限公司 (Dongfeng Motor Corporation) | 2026/2/2 |
+| 796 | 电擎大模型 | 中国电气装备集团有限公司 (China Electrical Equipment Group) | 2026/2/27 |
+| 802 | 经纬 | 中国铁塔股份有限公司 (China Tower) | 2026/3/16 |
+
+All four filing numbers also begin with `ZhongYangQiYe-`. The industries extend to coal technology and equipment, automobiles, electrical equipment and telecom towers.
+
 Across the full period, twelve entries carry the jurisdiction 国资委, filed by eleven distinct enterprises.
 
 | No. | Model name | Filing entity | Filing date |
@@ -731,6 +755,9 @@ No. 237, PipeChina（国家石油天然气管网集团）, is a state-owned pipe
 No. 247, the China Electric Power Research Institute, is a research body under the State Grid Corporation of China（国家電網公司）.
 
 **In Japanese terms, it would be as if JERA, NTT, JR, NYK Line and Nippon Light Metal each held their own large model and had filed it with the state.**
+
+(Corrected on November 22, 2026)<br/>
+In this paragraph, "eleven" should read 16 filings by 15 enterprises (see the correction at the start of this section).
 
 Not one of these eleven appears in existing articles on Chinese AI models.<br/>
 Not because the articles are inaccurate. **These models cannot be used from abroad, so they structurally cannot enter an article built on calling APIs and comparing them.**
@@ -822,6 +849,9 @@ National research institutions likewise.
 ## The Layer That Appears in Articles, and the Layer That Does Not
 
 Placed on a single sheet, it looks like this.
+
+(Corrected on November 22, 2026)<br/>
+"jurisdiction = SASAC, 11 enterprises" in the diagram below should read 16 filings by 15 enterprises (see the correction in Chapter 4, "Backbone Infrastructure").
 
 ```mermaid
 flowchart TB
@@ -1422,6 +1452,9 @@ Among the models that can be reached, it compares performance and price.<br/>
 That is useful in itself, and it is information a user needs.
 
 But **what cannot be reached cannot become an object of comparison, so its existence disappears from the article.**<br/>
+(Corrected on November 22, 2026)<br/>
+The central state-owned enterprises number 15, with 16 filings (see the correction in Chapter 4, "Backbone Infrastructure").
+
 The eleven central state-owned enterprises are absent not because the article is inaccurate, but because its form structurally excludes them.
 
 ## What to Revisit at Each Update

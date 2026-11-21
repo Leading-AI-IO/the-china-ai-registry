@@ -4,7 +4,8 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--06-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
+[![Data](https://img.shields.io/badge/Data-1%2C245%20filings%20%7C%20955%20registrations-orange)](data/)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22-brightgreen)](https://github.com/Leading-AI-IO/the-china-ai-registry/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="90%">
@@ -50,6 +51,17 @@
 > read from it. On 23 September 2026, the CAC separately announced the filing of
 > three on-device generative AI services.
 >
+> (Added on November 22, 2026)<br>
+> Following the CAC notice of 20 November 2026, the cumulative totals as of
+> 31 October 2026 stand at 1,245 services and 955 applications. From Attachment 13,
+> on-device services are filed in a separate table; Attachment 14 adds a table for
+> anthropomorphic-interaction services and a table of filing changes (the entity
+> name of 可灵 / Kling).
+>
+> (Corrected on November 22, 2026)<br>
+> The central state-owned enterprises under 国资委 number 15, with 16 filings,
+> recounted with the v1.3 data (Attachments 1–14), not eleven.
+>
 > **Disclosure**: The author has no commercial relationship with any Chinese
 > government agency, AI company, or semiconductor firm, and receives no funding
 > from any of them. This is independent analysis. Government notices are treated
@@ -76,11 +88,17 @@ On 14 September 2026, the CAC published the notice for July and August 2026. Wit
 (Added on November 6, 2026)<br>
 On 23 September 2026, the CAC announced, separately from its bimonthly notices, the filing of three generative AI services that run on the smartphone itself (Honor's "YOYO Claw", Xiaomi's "Xiaomi miclaw" and StepFun's "阶跃终端 AI" / StepFun Terminal AI). As of 6 November 2026, the notice covering September–October 2026 has not been published.
 
+(Added on November 22, 2026)<br>
+On 20 November 2026, the CAC published the notice for September–October 2026. It added 133 filings and 224 registrations, bringing the cumulative totals as of 31 October 2026 to **1,245 filings and 955 registrations**. From Attachment 13 (July–August 2026), filings of services that run on the smartphone itself appear in a separate table; Attachment 14 (September–October 2026) adds a table of filings for anthropomorphic-interaction (拟人化互动) services and a table of changes to filing information. The three on-device services announced separately on 23 September appear in Attachment 14's on-device table as Nos. 8–10. This book has joined Attachments 1–14 and published them as data in v1.3 (see "Data" below). The industry and jurisdiction distributions in Chapter 4 have not yet been recounted.
+
 What is on it? **Converter control in a steel mill** (Hebei Yongyang Special Steel). **Mine safety management**. **A water utility's call centre** (Beijing Waterworks Group). **A municipal hotline** (the Beijing Citizen Hotline Service Center's "12345 agent"). **Pressure-ulcer management** (Jiangsu Province Hospital's "PressGuard"). **Disaster response** (two filings by the Big Data Center of the Ministry of Emergency Management). Backbone enterprises in oil, gas pipelines, electric power, aviation, logistics and aluminium have filed their own large models. **Not a conversational assistant, and not internal document search — processes and public services themselves.**
 
 Foreign companies are on the same list. **Tesla Shanghai** (No. 843), **IKEA China** (No. 825), **Siemens China** (No. 674), **Coca-Cola Shanghai** (No. 877), **BMW China** (No. 912), **ASUS Shanghai** (No. 823) — in the same column structure, in the same running sequence as Chinese firms. For companies with China operations, this is directly a body of precedent.
 
 So why do only ten or so companies appear in the articles? Not because of quality. **Can it be called from abroad through an API, are the weights distributed, is there material in English** — only what passes this reachability filter appears, and what does not disappears from the article altogether. **Converter control, the water utility, PressGuard and disaster response all fail this filter,** because they are not being sold outside the organisation.
+
+(Corrected on November 22, 2026)<br>
+In the next paragraph, "Twelve such filings span eleven enterprises" should read 16 filings by 15 enterprises, recounted with the v1.3 data (Attachments 1–14). Attachments 10 and 11 add China Coal Technology & Engineering Group, Dongfeng Motor Corporation, China Electrical Equipment Group and China Tower.
 
 The basis of classification also sits on the authorities' side. The jurisdiction column holds one entry that is not geographic: **国资委**, the State-owned Assets Supervision and Administration Commission. Rows carrying it have filing numbers beginning, without exception, with `ZhongYangQiYe-`. Twelve such filings span eleven enterprises: CNPC, PipeChina, the China Electric Power Research Institute, CETC, Chinalco, China Energy Investment Corporation and others.
 
@@ -106,6 +124,27 @@ This book does not treat what it could not reach in primary sources. Comparison 
 | [the-china-ai-registry_JP.md](./docs/jp/the-china-ai-registry_JP.md) | 🇯🇵 日本語 | Full text (Japanese) |
 | [the-china-ai-registry_EN.md](./docs/en/the-china-ai-registry_EN.md) | 🇺🇸 English | Full text (English) |
 
+## 🗂 Data
+
+(Added on November 22, 2026)<br>
+From v1.3, the joined registry is published as machine-readable data, transcribed from the PDFs of CAC Attachments 1–14 in their source column positions and characters. Typos, column shifts and carry-overs are not corrected; they are recorded as observation codes. Each serial-number series is its own table; as of 31 October 2026 there are five.
+
+| File | Content |
+| --- | --- |
+| [data/registry.json](./data/registry.json) | Canonical file (definitions, sources, all rows) |
+| [data/filings.csv](./data/filings.csv) | Filings (生成式人工智能服务已备案信息), 1,234 rows |
+| [data/filings_on_device.csv](./data/filings_on_device.csv) | On-device filings, 10 rows, from Attachment 13 |
+| [data/filings_anthropomorphic.csv](./data/filings_anthropomorphic.csv) | Anthropomorphic-interaction filings, 1 row, from Attachment 14 |
+| [data/registrations.csv](./data/registrations.csv) | Registrations (生成式人工智能服务已登记信息), 955 rows |
+| [data/filing_changes.csv](./data/filing_changes.csv) | Filing changes, 1 row, from Attachment 14 |
+| [data/sources.csv](./data/sources.csv) | Source per attachment (PDF SHA-256) and connection status |
+| [docs/DATA_SPEC_en.md](./docs/DATA_SPEC_en.md) | Data specification (population, tables, transcription rules, fields, observation codes, checks) |
+| [docs/UPDATE_RUNBOOK_en.md](./docs/UPDATE_RUNBOOK_en.md) | Update runbook (cadence, connection, corrections) |
+
+The three filing tables sum to the CAC's cumulative filings (1,234 + 10 + 1 = 1,245). Filing changes are appended without rewriting the original filing rows.
+
+Only the author writes to the registry. CAC's hub page is checked about once a month, and any new attachment is connected.
+
 ---
 
 ## 🔄 Update History
@@ -121,6 +160,7 @@ Note that the opening line ("under 1%") requires no update as the denominator gr
 | **v1.0** | 2026-08-28 | Initial release (filings Nos. 1–988 / registrations Nos. 1–598; Attachments 1–12 fully joined) |
 | **v1.1** | 2026-10-18 | Added the cumulative figures from the CAC notice of 14 September 2026 (July–August 2026): 1,112 filings / 731 registrations. Joining the entries in Attachment 13 and recounting the industry and jurisdiction distributions in Chapter 4 are left to the next version. Added news reporting on Moonshot AI's Hong Kong listing application to the Epilogue (based on news reporting) |
 | **v1.2** | 2026-11-06 | Added to Chapter 6 the H1 2026 interim announcements of MiniMax and Zhipu AI (Z.ai), the original of Zhipu's fiscal 2025 annual results announcement (resolving the conflict between reported figures), and Anthropic's S-1 (October 26, 2026). Recorded that the statement on Zhipu's "opposite revenue structure" did not hold for H1 2026. Added the CAC notice of September 23, 2026 (three on-device services, including "阶跃终端 AI") to Chapters 1 and 5. Marked item 1 of the Epilogue's unreached sources as reached. Joining Attachment 13 onward will follow the notice covering September–October 2026 |
+| **v1.3** | 2026-11-22 | Published the registry as data (`data/registry.json` is canonical; one CSV per table and `sources.csv` are generated from it). Joined Attachments 1–14 (1,234 filings, 10 on-device filings, 1 anthropomorphic-interaction filing, 955 registrations, 1 filing change) and established the data specification (`docs/DATA_SPEC_en.md`) and the update runbook (`docs/UPDATE_RUNBOOK_en.md`). Added the notice of 20 November 2026 (September–October 2026) and the new tables of Attachments 13 and 14 to the Overview and Chapter 1. Corrected three counts in the body against the data (filings under 国资委: eleven enterprises → 16 filings by 15 enterprises; Shanghai Hanshu Technology's LongCat filings: five → four; Xiaomi Inc.'s filings: three → six). Recounting the Chapter 4 distributions is left to the next version |
 
 ---
 

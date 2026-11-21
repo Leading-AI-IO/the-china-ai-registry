@@ -1,0 +1,11 @@
+﻿id,seq,jurisdiction,name,entity,number,date_raw,date,date_note,scenario,attachment,page,order,observations,corrections
+D0001,1,上海市,Apple智能,苹果技术开发（上海）有限公司,Shanghai-AppleZhiNeng-202506160057,2026/7/8,2026-07-08,,苹果手机,13,6,1,,
+D0002,2,江苏省,华为小艺AI大模型,华为软件技术有限公司,Jiangsu-HuaWeiXiaoYiAI-202508130047,2026/7/8,2026-07-08,,华为手机,13,6,2,,
+D0003,3,广东省,AndesGPT大模型,OPPO广东移动通信有限公司,Guangdong-AndesGPT-202508190082,2026/7/8,2026-07-08,,欧珀手机,13,6,3,,
+D0004,4,广东省,vivo蓝心端侧大模型,维沃移动通信有限公司,Guangdong-vivoBlueOnDevice-202508190084,2026/7/8,2026-07-08,,维沃手机,13,6,4,,
+D0005,5,北京市,小米澎湃AI,小米科技有限责任公司,Beijing-XiaoMiPengPaiAI-202509080119,2026/7/8,2026-07-08,,小米手机,13,6,5,,
+D0006,6,北京市,盖乐世AI,三星（中国）投资有限公司,Beijing-GalaxyAI-202602250185,2026/7/8,2026-07-08,,三星手机,13,6,6,,
+D0007,7,上海市,努比亚豆包手机大模型,上海申启纪元智能终端有限责任公司,Shanghai-NuBiYaDouBaoShouJi-202604170151,2026/7/8,2026-07-08,,中兴手机,13,6,7,,
+D0008,8,北京市,Xiaomi miclaw,小米科技有限责任公司,Beijing-Xiaomimiclaw-202605180225,2026/9/23,2026-09-23,,小米手机,14,9,1,,
+D0009,9,上海市,阶跃终端AI,智源星辰（上海）智能科技有限公司,Shanghai-JieYueZhongDuanAI-202607280184,2026/9/23,2026-09-23,,阶跃手机,14,9,2,,
+D0010,10,广东省,YOYO Claw,深圳荣耀软件技术有限公司,GuangDong-YOYOClaw-202607280195,2026/9/23,2026-09-23,,荣耀手机,14,9,3,,

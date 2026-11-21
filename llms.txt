@@ -20,6 +20,19 @@
 > counted by companies but by a registry. As stated at the opening: "The
 > five Chinese AI models you can name are under 1% of the ones China
 > counts."
+>
+> (Corrected on November 22, 2026) Recounted with the v1.3 data
+> (Attachments 1–14), the jurisdiction 国资委 carries 16 filings by 15
+> central state-owned enterprises, not eleven.
+
+## Data
+
+(Added on November 22, 2026)
+
+- [registry.json](data/registry.json): canonical registry transcribed from CAC Attachments 1–14 (as of 31 October 2026: 1,234 filings, 10 on-device filings, 1 anthropomorphic-interaction filing — 1,245 in total, matching the CAC cumulative figure — 955 registrations, and 1 filing change), with sources (PDF SHA-256) and observation codes. One serial-number series per table
+- [filings.csv](data/filings.csv), [filings_on_device.csv](data/filings_on_device.csv), [filings_anthropomorphic.csv](data/filings_anthropomorphic.csv), [registrations.csv](data/registrations.csv), [filing_changes.csv](data/filing_changes.csv), [sources.csv](data/sources.csv): generated from registry.json
+- [DATA_SPEC_en.md](docs/DATA_SPEC_en.md): population, transcription rules, fields, observation codes, checks
+- [UPDATE_RUNBOOK_en.md](docs/UPDATE_RUNBOOK_en.md): cadence and procedures
 
 ## Book Content
 
@@ -49,6 +62,12 @@
   from No. 1 to No. 598. It notes that Attachment 1 (April 2024) is titled
   differently, carrying no registration list, so application registration
   began later than service filing
+
+- (Corrected on November 22, 2026) The list below gives twelve filings by
+  eleven enterprises. Recounted with the v1.3 data (Attachments 1–14), there
+  are 16 filings by 15 enterprises: Attachments 10 and 11 add China Coal
+  Technology & Engineering Group (No. 755), Dongfeng Motor Corporation (759),
+  China Electrical Equipment Group (796) and China Tower (802)
 
 - The book identifies a classification instrument in the authorities' own
   numbering rule: the jurisdiction column contains one non-geographic
