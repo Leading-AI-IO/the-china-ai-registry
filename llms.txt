@@ -34,6 +34,11 @@
 > DOI of version 1.3.1: 10.5281/zenodo.24429942. DOI for all versions (always resolves to the
 > latest): 10.5281/zenodo.24429941.
 
+> (Added on November 22, 2026)
+> A copy of version 1.3.1 is also published as a dataset on Hugging Face:
+> https://huggingface.co/datasets/Leading-AI-IO/the-china-ai-registry
+> The canonical data remains in this repository.
+
 ## Data
 
 (Added on November 22, 2026)

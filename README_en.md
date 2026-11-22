@@ -142,6 +142,9 @@ From v1.3, the joined registry is published as machine-readable data, transcribe
 | [docs/DATA_SPEC_en.md](./docs/DATA_SPEC_en.md) | Data specification (population, tables, transcription rules, fields, observation codes, checks) |
 | [docs/UPDATE_RUNBOOK_en.md](./docs/UPDATE_RUNBOOK_en.md) | Update runbook (cadence, connection, corrections) |
 
+(Added on November 22, 2026)<br>
+The same data is also published as a dataset on Hugging Face: [Leading-AI-IO/the-china-ai-registry](https://huggingface.co/datasets/Leading-AI-IO/the-china-ai-registry) (a copy of v1.3.1; this repository remains the canonical home). It loads with `datasets` as one subset per table.
+
 The three filing tables sum to the CAC's cumulative filings (1,234 + 10 + 1 = 1,245). Filing changes are appended without rewriting the original filing rows.
 
 Only the author writes to the registry. CAC's hub page is checked about once a month, and any new attachment is connected.
@@ -164,6 +167,7 @@ Note that the opening line ("under 1%") requires no update as the denominator gr
 | **v1.3** | 2026-11-22 | Published the registry as data (`data/registry.json` is canonical; one CSV per table and `sources.csv` are generated from it). Joined Attachments 1–14 (1,234 filings, 10 on-device filings, 1 anthropomorphic-interaction filing, 955 registrations, 1 filing change) and established the data specification (`docs/DATA_SPEC_en.md`) and the update runbook (`docs/UPDATE_RUNBOOK_en.md`). Added the notice of 20 November 2026 (September–October 2026) and the new tables of Attachments 13 and 14 to the Overview and Chapter 1. Corrected three counts in the body against the data (filings under 国资委: eleven enterprises → 16 filings by 15 enterprises; Shanghai Hanshu Technology's LongCat filings: five → four; Xiaomi Inc.'s filings: three → six). Recounting the Chapter 4 distributions is left to the next version |
 | **v1.3.1** | 2026-11-22 | Added citation files (`CITATION.cff`, `.zenodo.json`) so that the version can be archived on Zenodo with a DOI. Text and data are identical to v1.3 (the version in `data/registry.json` remains 1.3). Added Section 6 (archiving versions and DOIs) to the update runbook. Recounting the Chapter 4 distributions is left to the next version (v1.4) |
 | — | 2026-11-22 | Recorded the DOIs of v1.3.1 in `CITATION.cff` and the README (version DOI 10.5281/zenodo.24429942; DOI for all versions 10.5281/zenodo.24429941). A DOI is known only after the Release, so it is not contained in the archived files of the version |
+| — | 2026-11-22 | Published a copy of v1.3.1 as a dataset on Hugging Face (`Leading-AI-IO/the-china-ai-registry`). The data and text are unchanged; this repository remains canonical |
 
 ---
 
